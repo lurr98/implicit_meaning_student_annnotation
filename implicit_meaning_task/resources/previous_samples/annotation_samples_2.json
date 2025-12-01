@@ -1,0 +1,626 @@
+{
+    "1": {
+        "sentence_1": "Add a few drops of peppermint oil.",
+        "sentence_2": "Add a few drops of peppermint oil, <which is what menthol is derived from>.",
+        "article_name": "Make_a_Hot_Oil_Treatment_for_Hair.txt",
+        "context_before": "## Tips\n \n   * Adjust the amount of oil you need according to the length and thickness of your hair. This hot oil recipe is adequate for medium length hair. \n *",
+        "context_after": "Although there are no proven benefits of peppermint oil in hair, the smell and the tingling sensation on the scalp are pleasant and relaxing.",
+        "grouping": 0
+    },
+    "2": {
+        "sentence_1": "Remove the plastic coated metal ring.",
+        "sentence_2": "Remove the plastic coated metal ring <if there is one>.",
+        "article_name": "Change_a_Gu10_Halogen_Light_Bulb.txt",
+        "context_before": "## Steps",
+        "context_after": "There should be two plug bits on this ring. Squeeze them together and the ring will fall out.    Find a drinking straw. Trust me on this.",
+        "grouping": 1
+    },
+    "3": {
+        "sentence_1": "Look out for hidden animal ingredients such as meat broths, gelatin, casein or whey (cow's milk proteins), lactose, butter, cheese, etc.",
+        "sentence_2": "<When purchasing products>, look out for hidden animal ingredients such as meat broths, gelatin, casein or whey (cow's milk proteins), lactose, butter, cheese, etc.",
+        "article_name": "Accommodate_Vegan_and_Vegetarian_Guests.txt",
+        "context_before": "3. Check the ingredients of the foods you were planning on serving. Some may already be acceptable, or could be easily adapted (for example, using soydrink instead of cow's milk to make a dessert vegan).",
+        "context_after": "4. Do not assume that vegetarians will be willing to pick the vegetables out of a meat dish. Prepare a separate, meat-free dish for them, without having used the same utensils for cooking their dishes and the other dishes.   5. Make sure that the quantity and quality of food served to all the guests is similar.",
+        "grouping": 0
+    },
+    "4": {
+        "sentence_1": "The tension and pull can tear you apart if you do not take care of your internal needs.",
+        "sentence_2": "This tension and pull can tear you apart if you do not take care of your internal needs and <face the reasons why you crave others' acceptance so intensely>.",
+        "article_name": "Be_Wild_at_Heart.txt",
+        "context_before": "11. Figure out who you are apart from everyone. There is a strange bind in those who are highly independent and seek freedom and yet seek the approval and tolerance of others'.",
+        "context_after": "Take time away to build up your self-esteem and beliefs without being influenced by others. Then you will be in a better position to avoid hurt when criticised and will be able to cope with confrontation instead of seeking to run out of oppression rather than to freedom.  12. Contribute to others' well-being.",
+        "grouping": 1
+    },
+    "5": {
+        "sentence_1": "Keep in mind that regular screenings are important as you age since cholesterol levels usually increase as you get older.",
+        "sentence_2": "Keep in mind that regular screenings are important as you age since cholesterol levels usually increase <due to lifestyle changes and decreased activity levels> as you get older.",
+        "article_name": "Maintain_Normal_Cholesterol_Levels.txt",
+        "context_before": "### Getting Your Cholesterol Checked\n \n 1. Schedule a cholesterol screening every 5 years. If you don't have a history of heart disease, you'll need to have blood work done every 5 years to determine if your cholesterol is in a normal range.",
+        "context_after": "* Your cholesterol level will appear as 3 numbers: your HDL, LDL, and triglycerides.     * If you do have a history of heart disease, your doctor will recommend that you get your cholesterol checked more frequently. \n     * To screen your cholesterol, you'll need to get a blood sample that's analyzed in a lab.",
+        "grouping": 0
+    },
+    "6": {
+        "sentence_1": "Appeal to a friend or relative.",
+        "sentence_2": "Appeal to a friend or relative <to provide you with an in>.",
+        "article_name": "Search_for_Jobs.txt",
+        "context_before": "Many universities also have career centers designed to equip students with the skills and knowledge they need to enter the workforce. A trip to your college\u2019s career center could prove advantageous, assuming you\u2019re still currently enrolled. \n 4.",
+        "context_after": "Keep your loved ones updated about the progress of your job search. There\u2019s a chance that they might personally know someone who\u2019s hiring, in which case they can put in a good word for you. If you have a friend or family member who owns their own business, they may even be able to get you a job themselves.    * Recommendations from family tend to go a long way as character references.",
+        "grouping": 1
+    },
+    "7": {
+        "sentence_1": "Knit into the stitch as you normally would, but do not let the old stitch slide off the needle.",
+        "sentence_2": "Knit into the stitch as you normally would <to knit into the front>, but do not let the old stitch slide off the needle.",
+        "article_name": "Knit_Ruffles.txt",
+        "context_before": "4. Increase the next stitch by knitting front and back. Knitting front and back is a simple way to increase stitches in your row.",
+        "context_after": "Instead, insert the needle in through the back of the stitch to knit the same 1 purlwise. Then, slip the old stitch off of the needle and allow the 2 new stitches you created to replace them.    * You may also knit front and back into all stitches in the row if you want a fuller ruffle.",
+        "grouping": 0
+    },
+    "8": {
+        "sentence_1": "If you do not have a manmade fire pit, clear an area 3 feet in diameter.",
+        "sentence_2": "If you do not have a manmade fire pit, clear an area <of all flammable material> 3 feet in diameter.",
+        "article_name": "Light_a_Fire_With_One_Match.txt",
+        "context_before": "## Steps\n \n 1. Find a suitable fire area.",
+        "context_after": "Then dig a hole 10-12 inches wide by 6 inches deep. This is your fire pit.  2. Find suitable tinder. (Charred cloth, birch bark, dried leaves/grasses, or other airy and fine materials are great.",
+        "grouping": 1
+    },
+    "9": {
+        "sentence_1": "Most venomous snakes usually have triangular shaped heads.",
+        "sentence_2": "Most venomous snakes have triangular shaped heads, <though not all>.",
+        "article_name": "Differentiate_Between_Poisonous_Snakes_and_Non_Poisonous_Snakes.txt",
+        "context_before": "## Steps\n \n 1. Look at the head.",
+        "context_after": "2. Check out the colors. Some venomous snakes such as the coral snake have bright colors to tell you that it's dangerous.   3. Watch for warning signs. All snakes have some kind of warnings.",
+        "grouping": 0
+    },
+    "10": {
+        "sentence_1": "The key is to move closer and closer toward what you love.",
+        "sentence_2": "The key is to move closer and closer toward what you love <through intentional action>.",
+        "article_name": "Lead_a_Happier_Life.txt",
+        "context_before": "Keep in mind that this isn\u2019t a license to behave recklessly. For instance, to quit a job that you don\u2019t like without alternative income would likely result in even more unhappiness. Instead, be intentional about looking for a different job.",
+        "context_after": "2. Write in a \u201cGratitude Journal\u201d every day. Set aside 10-15 minutes every day to write down everything that you\u2019re thankful for in that moment. Gratitude tends to magnify positive emotions while blocking negative ones.",
+        "grouping": 1
+    },
+    "11": {
+        "sentence_1": "Whilst the kite is in the air, practice dragging yourself up and down through the water.",
+        "sentence_2": "Whilst the kite is in the air, practice dragging yourself up and down <the wind direction> through the water.",
+        "article_name": "Kite_Surf.txt",
+        "context_before": "3. Learn about body dragging. You'll need to know how to do this if you have to retrieve your kite whilst in the water.",
+        "context_after": "This is essential to safety so make sure you are very comfortable with it before progressing further.  4. Get on your board. Whilst your kite is in the air, sit back in the water supported by your harness. Then practice putting your feet onto the board and just simply float there getting used to the feeling.",
+        "grouping": 0
+    },
+    "12": {
+        "sentence_1": "Go for the traditional Bengali, the more sultry Nivi, the playful Gujarati, or the retro Mumtaz.",
+        "sentence_2": "Go for the traditional Bengali, the more sultry Nivi, the playful Gujarati, or the retro Mumtaz <depending on your personality and the overall theme of the wedding>.",
+        "article_name": "Wear_a_Wedding_Saree.txt",
+        "context_before": "## Timestamp::::2018-08-08T23:31:04Z\n \n When a traditional Indian bride arrives at her wedding, she\u2019ll often be dressed in a vibrant yet elegant saree. When it comes to wearing the stunning fabric yourself, the draping and wrapping options are endless! These popular (and gorgeous) ways of styling the classic Indian garb will have you saying yes to the saree.",
+        "context_after": "",
+        "grouping": 1
+    },
+    "13": {
+        "sentence_1": "A cool trick is to use baby oil.",
+        "sentence_2": "A great trick is to use baby oil <instead of the normal lotions>.",
+        "article_name": "Stay_Cool_and_Feel_Fresh_During_the_Summer.txt",
+        "context_before": "It lowers your body tempurature and also wakes you up if you shower in the morning. \n 2. 2\\. After you step out of the shower go ahead and moisturize.",
+        "context_after": "When you are still damp, rub in small amounts all over your body. It's light, and it lasts. If you don't want baby oil, go for light yet moisturizing lotions. If you like scented lotions, wear something citrus or flowery-smelling.",
+        "grouping": 0
+    },
+    "14": {
+        "sentence_1": "Remember that respect is the most important thing in a relationship.",
+        "sentence_2": "Remember that respect is the most important thing in a relationship and <that listening forms a large part of respect>.",
+        "article_name": "Relearn_Listening_to_Your_Spouse.txt",
+        "context_before": "and he/ she will appreciate it and may be willing to listen to you and talk to you about her/his own stuff. \n 3.",
+        "context_after": "Listen to what your spouse has to say with respect. If you don't agree with something let her/him know without being rude.  4. Start caring about things you spouse does again.",
+        "grouping": 1
+    },
+    "15": {
+        "sentence_1": "Standing poses can help strengthen and stretch your legs.",
+        "sentence_2": "Standing poses can help strengthen and stretch your legs and <the inner muscles that stabilize your hips>.",
+        "article_name": "Complement_Cardio_with_Yoga.txt",
+        "context_before": "* Hold each asana for 3-5 breaths. \n 2. Add standing poses.",
+        "context_after": "They also help you balance and focus. Start with basic standing poses such as tree pose or the Warrior Series.",
+        "grouping": 0
+    },
+    "16": {
+        "sentence_1": "Add 1 or 2 inches to your draw length value.",
+        "sentence_2": "Add 1 or 2 inches to your draw length value <to know the arrow length you should use>.",
+        "article_name": "Determine_What_Arrow_Spine_to_Use.txt",
+        "context_before": "* The value may be a few pounds more if you have a longer draw length than average or a few pounds less if you have shorter arms length. \n 3.",
+        "context_after": "If you supposedly sit on the average draw length of 28\", you should be using an arrow of 29\" or 30\" long. (The arrow length is measured from the throat of the nick to the end of the insert)  4. Select a point weight to screw in the tip of the arrow. Once selected, stick with the same value whether you are using a practice point or a broadhead so your setup stays the same.",
+        "grouping": 1
+    },
+    "17": {
+        "sentence_1": "Opt for a wrap dress.",
+        "sentence_2": "Opt for a wrap dress <to emphasize a small waist>.",
+        "article_name": "Hide_a_Muffin_Top.txt",
+        "context_before": "* Wear a top that is the same color as your jeans. For example, if you have white jeans, pair it with a white top. This will smooth out your midsection and make your look more streamlined.\n 3.",
+        "context_after": "A wrap dress is flattering on almost any body type. It features a tie around the waist that can instantly highlights your bust and gives you that perfect hourglass shape. If you find one that fits perfectly, it can create the illusion of a slimmer tummy.    *",
+        "grouping": 0
+    },
+    "18": {
+        "sentence_1": "Sandy loam that has a lot of organic material is the best kind of soil that you can use.",
+        "sentence_2": "Sandy loam that has a lot of organic material and <is slightly acidic to neutral> is the best kind of soil that you can use.",
+        "article_name": "Grow_Lanzones.txt",
+        "context_before": "Plant the seeds in sandy loam, 3-5 cm (1-2 inches) apart. Dig small holes about 1 cm (.4 inch) deep, put the seeds in the holes and cover the seeds with soil. You can do this in an indoor planter with good water drainage.",
+        "context_after": "* It's a good idea to plant multiple langsat seeds just in case some of them don't germinate.   4. Water your seedlings.",
+        "grouping": 1
+    },
+    "19": {
+        "sentence_1": "Allow your hair to drip while you dry off the rest of your body.",
+        "sentence_2": "<After your shower> llow your hair to drip while you dry off the rest of your body.",
+        "article_name": "Make_Hair_Dry_Faster_Without_a_Blow_Dryer.txt",
+        "context_before": "Move your hands an inch or two down the length of your hair and squeeze again. Repeat until you reach the ends of your hair. \n 2.",
+        "context_after": "Then use your towel to blot your hair. Take the long part of your hair and wrap it in the towel. Squeeze and hold for a few seconds. Remove towel and then wrap your hair again using a different part of the towel.",
+        "grouping": 0
+    },
+    "20": {
+        "sentence_1": "Click the \"apps\" button from your home screen, and select the \"browser\" option listed there.",
+        "sentence_2": "<On your phone>, click the \"apps\" button from your home screen, and select the \"browser\" option listed there.",
+        "article_name": "Delete_History_on_Android_Device.txt",
+        "context_before": "## Steps\n \n 1.",
+        "context_after": "2. Click on the menu button once the browser window appears. Select \"Settings\" towards the bottom of the browser.   3.",
+        "grouping": 1
+    },
+    "21": {
+        "sentence_1": "never injure them in any way possible",
+        "sentence_2": "never injure them in any way possible <keep their pens clean and secure>",
+        "article_name": "Treat_Your_Barnyard_Animals.txt",
+        "context_before": "## Steps\n \n   1. treat the animals the way you would want to be treated. \n   2. if you hurt them they not trust much\n 3.",
+        "context_after": "4. if you happen to hurt them just feed and water them for a while (and DON'T stop at any point) and then try just petting them and see how they react to that and day by day get closer and closer to them until they trust you.   5. do not bully them\n   6. have a half gallon container full of feed to entice the animal to come to closer to you",
+        "grouping": 0
+    },
+    "22": {
+        "sentence_1": "Pour the gas into the container first.",
+        "sentence_2": "Pour the gas into the container first, <followed by the water>.",
+        "article_name": "Remove_Ethanol_from_Gas.txt",
+        "context_before": "Put nitrile gloves on. Place a gasoline container on the ground in a well-ventilated area. Outside is best.",
+        "context_after": "Pour the water in after the gasoline.    * Use a container designed for storing gasoline. It should create a tight seal when closed. Do not fill the container more than 95% full.",
+        "grouping": 1
+    },
+    "23": {
+        "sentence_1": "Stitch the ends of the scarf together.",
+        "sentence_2": "Tie the ends of the scarf together <in a flat knot>.",
+        "article_name": "Make_an_Infinity_Scarf.txt",
+        "context_before": "It can be made from fabric, wool, silk, etc. just as long as the material is flexible (stretchy) and amenable to being twisted around during wearing. \n 2.",
+        "context_after": "Use matching thread and keep the stitching as invisible as possible; some people recommend twisting the ends before stitching to help when looping the scarf around your neck; you may wish to experiment. Always turn the edge inward when stitching, to keep it neat.    * The really lazy method: If the scarf is long enough, just tie a knot to create the loop.",
+        "grouping": 0
+    },
+    "24": {
+        "sentence_1": "Do not turn off or unplug your machine while installing Windows 10 or formatting your disk.",
+        "sentence_2": "Do not turn off or unplug your machine while installing Windows 10 or formatting your disk, <otherwise your disk may be corrupted or damaged>.",
+        "article_name": "Clean_Install_Windows_10.txt",
+        "context_before": "## Warnings\n \n *",
+        "context_after": "",
+        "grouping": 1
+    },
+    "25": {
+        "sentence_1": "It may restart a few times.",
+        "sentence_2": "<As it does>, it may restart a few times.",
+        "article_name": "Reset_the_Apple_Watch.txt",
+        "context_before": "Tap . It's the red bar at the top of the watch. Allow a few minutes for the Apple Watch to reset.",
+        "context_after": "Once it is done, you will need to go through the set up process again. When prompted, select \"Restore from backup\". This will restore your Apple Watch with your original settings.",
+        "grouping": 0
+    },
+    "26": {
+        "sentence_1": "Lower the volume if your parents ask you to, or they go to bed.",
+        "sentence_2": "Lower the volume <of your tv> if your parents ask you to, or they go to bed.",
+        "article_name": "Have_a_Fun_Sleepover_with_Just_One_Friend_(For_Preteens).txt",
+        "context_before": "* If it's summer and you own a pool, go night swimming. \n *",
+        "context_after": "* Watch what she wants to watch. You can watch that movie you think looks good another time.",
+        "grouping": 1
+    },
+    "27": {
+        "sentence_1": "\"One man's trash is another man's treasure\"!! Take color photos from more than one angle when you're done.",
+        "sentence_2": "\"One man's trash is another man's treasure\"!! Take color photos from more than one angle when you're done <if it's on a sidewalk or wall>.",
+        "article_name": "Create_Wet_Chalk_Drawings.txt",
+        "context_before": "Draw many different things. \n * Hold on to everything that you make. What may not seem very appealing to you may turn into a piece of art that many people love.",
+        "context_after": "* If there is a defect or imperfection in the surface you are using, try using this in your drawing.",
+        "grouping": 0
+    },
+    "28": {
+        "sentence_1": "If there are clumps of sugar, continue mixing.",
+        "sentence_2": "If there are clumps of sugar, continue mixing <to remove all lumps>.",
+        "article_name": "Make_Homemade_Sugar_Cubes.txt",
+        "context_before": "Place the three (3) teaspoons of water in to the bowl of sugar. \n 3. Mix the water in with a fork.",
+        "context_after": "The sugar is ready if it is \"packable\".  4. Place parchment paper on the inside of the bread pan/meat loaf pan.   5.",
+        "grouping": 1
+    },
+    "29": {
+        "sentence_1": "Shaking your legs is often what you usually do when you are nervous, and if his legs are shaking, then this could be another sign!",
+        "sentence_2": "Shaking your legs is often what you usually do when you are nervous, and if his legs are shaking <while he is providing you answers>, then this could be another sign!",
+        "article_name": "Find_out_if_Your_Boyfriend_Is_Cheating_on_You_(for_Girls).txt",
+        "context_before": "If your boyfriend sounds nervous when he is answering your question, then he is probably lying that he loves you, which means he may be cheating. \n * Look at your boyfriend's legs. Is his legs still, or is he shaking his legs?",
+        "context_after": "",
+        "grouping": 0
+    },
+    "30": {
+        "sentence_1": "Wash your hands and disinfect your tools before beginning the process.",
+        "sentence_2": "Wash your hands and disinfect your tools and <the area around the skin tag> before beginning the process.",
+        "article_name": "Remove_a_Skin_Tag_from_Your_Neck.txt",
+        "context_before": "## Steps\n \n 1.",
+        "context_after": "2. Pinch it with a tweezer and pull taut.   3. Grab a small scissors and snip the little bugger off.",
+        "grouping": 1
+    },
+    "31": {
+        "sentence_1": "Make sure your wireless network is encrypted with WPA2.",
+        "sentence_2": "Make sure your wireless network is encrypted with WPA2 and <that you use a strong password that includes at least 20 characters>.",
+        "article_name": "Prevent_People_from_Tracking_You_on_the_Internet.txt",
+        "context_before": "Your home network is one of the most common entry points for tracking and unauthorized data collection. It's essential to secure your router settings to reduce these risks.",
+        "context_after": "This step helps protect your data from being intercepted by others on the same network and makes it harder for third parties to monitor your online activity.",
+        "grouping": 0
+    },
+    "32": {
+        "sentence_1": "Make sure your wireless network is encrypted with WPA2.",
+        "sentence_2": "Make sure your wireless network is encrypted with WPA2 and <that you use a strong password that includes at least 20 characters>.",
+        "article_name": "Prevent_People_from_Tracking_You_on_the_Internet.txt",
+        "context_before": "Your home network is one of the most common entry points for tracking and unauthorized data collection. It's essential to secure your router settings to reduce these risks.",
+        "context_after": "This step helps protect your data from being intercepted by others on the same network and makes it harder for third parties to monitor your online activity.",
+        "grouping": 1
+    },
+    "33": {
+        "sentence_1": "Your middle finger should be facing forward.",
+        "sentence_2": "Your middle finger should be facing forward, <the rest of your fingers splayed>.",
+        "article_name": "Do_the_Cat_Pose_in_Yoga.txt",
+        "context_before": "Get on your hands and knees on your mat. Keep your hands directly beneath your shoulders and your knees directly beneath your hips. \n 2. Spread your fingers.",
+        "context_after": "3. Gaze at the floor.",
+        "grouping": 0
+    },
+    "34": {
+        "sentence_1": "This stage is very important so make sure the shaving foam covers the dish.",
+        "sentence_2": "This step is very important so make sure the shaving foam covers the dish or <it might not show the pattern after you have finished>.",
+        "article_name": "Make_Marble_Art.txt",
+        "context_before": "1. Fill the dish/bowl with a thin layer of shaving foam. Until you can't see the bottom of the dish or about a centimeter will do.",
+        "context_after": "1. Add the food coloring to the shaving foam. One drop at a time and make sure that you have a nice mixture of colors. Red,yellow and blue works best as they will mix together to form orange,purple and green. The colors need to be equal or the pattern might come out slightly uneven (but if you want,you can also make it more reddish,blueish or yellowish,after all it's your choice!)",
+        "grouping": 1
+    },
+    "35": {
+        "sentence_1": "Tap the blue up arrow.",
+        "sentence_2": "Tap the blue up arrow <to send the message>.",
+        "article_name": "Create_Animoji.txt",
+        "context_before": "Speak and make faces to record them to the Animoji. \n     * Tap Record again to stop recording. \n 6.",
+        "context_after": "This will send your recorded Animoji to your conversation.    * Tap the red trash can icon to delete the recording and start over.",
+        "grouping": 0
+    },
+    "36": {
+        "sentence_1": "Collect an old glass jar from your kitchen cupboard.",
+        "sentence_2": "Collect an old glass jar <with a tight lid> from your kitchen cupboard.",
+        "article_name": "Make_Campfire_Starters.txt",
+        "context_before": "## Steps\n \n   1. Purchase a bag of cotton balls and a bottle of metholated spirits or denatured alcohol. \n 2.",
+        "context_after": "3. Fill the jar one-third full with spirits.   4. Place cotton balls into spirits to soak thouroughly.",
+        "grouping": 1
+    },
+    "37": {
+        "sentence_1": "Tap on your keyboard.",
+        "sentence_2": "Tap <the Search button> on your keyboard.",
+        "article_name": "Filter_Search_Results_on_Facebook.txt",
+        "context_before": "Enter the keyword you wish to search. This could be the name of a person, group, page, event, app; or, it could be the caption of a photo. \n 5.",
+        "context_after": "This is the blue button in the lower-right corner of your screen. This will bring up a list of all search results matching with your keyword.  6. Tap on a filter category. Search will show you all top results.",
+        "grouping": 0
+    },
+    "38": {
+        "sentence_1": "Will burn at almost any altitude, in most any weather.",
+        "sentence_2": "Will burn at almost any altitude, in most any weather <except very cold>.",
+        "article_name": "Choose_a_Backpacking_Stove.txt",
+        "context_before": "One of the most commonly recognized being the <a href=\"http%3A//www.jetboil.com/products/cookingsystems/personalcookingsystem\">JetBoil\u2122 stove systems</a>. These bad boys typically run on pressurized canisters of butane and burn hot and fast. Boils 2 cups in around 2-3 minutes.",
+        "context_after": "And they are a plug & play set-up for the most part. Hook up the canister, light the stove and away you go. <br><br> But you will pay the price in weight and literally with your wallet ( not just for the stove, but for the fuel as well).",
+        "grouping": 1
+    },
+    "39": {
+        "sentence_1": "Learn to open up in order to improve your social and mental health.",
+        "sentence_2": "Learn to open up in order to improve your social and mental health and <live a fuller more meaningful life>.",
+        "article_name": "Open_Up.txt",
+        "context_before": "## Timestamp::::2014-05-31T11:39:09Z\n \n Not everyone approaches their feelings as an open book for others to read. However, closing yourself off from new people and experiences can stunt your personal growth.",
+        "context_after": "",
+        "grouping": 0
+    },
+    "40": {
+        "sentence_1": "Consult with a hair loss specialist.",
+        "sentence_2": "Consult a hair loss specialist <for a diagnosis>.",
+        "article_name": "Know_if_You_Have_Male_Pattern_Baldness.txt",
+        "context_before": "* Certain hair treatments, such as applying hot oil, dyes or chemicals meant to straighten hair, can cause scalp damage and permanent hair loss. \n 5.",
+        "context_after": "To be completely sure if you are affected by male pattern baldness, make an appointment with a hair loss specialist, who is likely a dermatologist or physician with special training. Typical male pattern baldness is usually diagnosed based on the appearance and pattern of hair loss. However, your doctor will also ask about your extended family (particularly on your mom's side) and carefully examine your scalp under magnification (with a device called a densitometer) in order to assess the extent of miniaturization of the hair follicles.    * Hair analysis or a scalp biopsy are not needed to properly diagnose your hair loss.",
+        "grouping": 1
+    },
+    "41": {
+        "sentence_1": "Talk to your doctor about whether an induction of labor makes sense for you if your pregnancy goes beyond 40 weeks.",
+        "sentence_2": "Talk to your doctor <well in advance> about whether an induction of labor makes sense for you should your pregnancy goes beyond 40 weeks.",
+        "article_name": "Treat_Gestational_Diabetes.txt",
+        "context_before": "* Newborns born to mothers with gestational diabetes are more likely to be large for their age and may be prone to labor complications. \n 5. Discuss an induction of labor if you go beyond your due date.",
+        "context_after": "Delivering after your due date may cause additional complications for you and your baby if your gestational diabetes is not well controlled.    * Managing your diabetes can keep your baby within a healthy weight range to ensure a smoother delivery.",
+        "grouping": 0
+    },
+    "42": {
+        "sentence_1": "Some cleaners require you to wait 4 hours after you clean them.",
+        "sentence_2": "Some cleaners require you to wait 4 hours <before you put them back in> after you clean them.",
+        "article_name": "Deal_With_Hard_Contacts.txt",
+        "context_before": "## Warnings\n \n * BE careful when you clean them.",
+        "context_after": "",
+        "grouping": 1
+    },
+    "43": {
+        "sentence_1": "Regardless of the method used (ohm meter or continuity tester), the procedure is the same.",
+        "sentence_2": "Regardless of the method used (ohm meter or continuity tester), the procedure is the same, <after preparing the tool for use>.",
+        "article_name": "Change_an_Electric_Fuse.txt",
+        "context_before": "As mentioned above, another method to check fuses requires a continuity tester or ohm meter. A continuity tester is similar to a test light, but that this light has its own power source (battery) as part of the tester. It must NEVER be connected to another power source - the way a neon test light would.",
+        "context_after": "5. Set the ohm meter to Ohms (R x 10 scale) / Turn the continuity tester on.     * Put the meter probes onto the \"Common\" and \"Ohms\" jacks on the meter.",
+        "grouping": 0
+    },
+    "44": {
+        "sentence_1": "Keep your injured leg in a straight position out in front of you.",
+        "sentence_2": "Keep your injured leg in a straight position out in front of you, <parallel to the floor>.",
+        "article_name": "Exercise_With_a_Broken_Leg.txt",
+        "context_before": "Be sure you can do this safely depending on your injury. \n     * Keeping your back straight, lower yourself down to a sitting position, with the thigh of your good leg at a 90 degree angle to your back. \n *",
+        "context_after": "* Return to a standing position using the strength in your uninjured leg.   7. Be creative. The exercises described e are only examples. \n     * Whatever you choose to try, be sure someone is with you to help, you can do the exercises safely, and the exercises do not cause pain.",
+        "grouping": 1
+    },
+    "45": {
+        "sentence_1": "Scrub the pan with a non-abrasive brush or sponge.",
+        "sentence_2": "Scrub the pan with a bristled brush or sponge <using a circular motion>.",
+        "article_name": "Clean_Seasoned_Cast_Iron.txt",
+        "context_before": "Simmering an inch of water in the pan will help soften messes that running water alone won\u2019t clear away. Try not to let your cookware soak for more than a few minutes at a time. \n 3.",
+        "context_after": "An ordinary kitchen sponge or nylon dish brush will work fine, as neither of these tools is abrasive enough to leave scratches on cast iron. Even so, try not to scrub the pan any more forcefully than needed to remove remaining food particles and residue.    * For added cleaning power, squeeze a small amount of mild liquid dish soap to the water in the pan. Just don\u2019t overdo it\u2014detergents that are formulate to cut tough grease may strip the pan of some of its seasoning.",
+        "grouping": 0
+    },
+    "46": {
+        "sentence_1": "Confide in them, but once you do, be prepared to keep that information confidential.",
+        "sentence_2": "Confide in them, but once you do <accept a confidence>, be prepared to keep that information confidential.",
+        "article_name": "Be_a_Good_Sister.txt",
+        "context_before": "## Tips\n \n   * Always try to remember yourself at their age, how you thought and acted, and what would have made you feel good. \n   * Be nice, don't make things a competition. \n *",
+        "context_after": "* Have an opinion, but don't take it personal if it does not agree with others.",
+        "grouping": 1
+    },
+    "47": {
+        "sentence_1": "Give the students a free dobok (uniform) and a free lesson.",
+        "sentence_2": "Give the students a free dobok (uniform) and a free lesson <to some of your students>.",
+        "article_name": "Be_a_Good_Taekwondo_Instructor.txt",
+        "context_before": "3. Be kind when offering corrections. \n 4.",
+        "context_after": "5. Choose a name for your school.   6. Master the moves before you try to teach them to others.",
+        "grouping": 0
+    },
+    "48": {
+        "sentence_1": "Serious injury is likely to result if another car strikes your car on the side where it is much weaker structurally.",
+        "sentence_2": "Serious injury is likely to result if another car strikes your car on the side where it is much weaker structurally and <closer to the driver>.",
+        "article_name": "Survive_a_Car_Accident.txt",
+        "context_before": "* Do as much as you can to control your car's speed. The faster the impact, the more damage it will cause. \n * Avoid side impacts.",
+        "context_after": "8. <a href=\"Call%20Emergency%20Services\">Call emergency services after a crash.</a> Apply <a href=\"Do%20Basic%20First%20Aid\">first aid</a> if needed. Do not attempt to removed injured people from a vehicle.",
+        "grouping": 1
+    },
+    "49": {
+        "sentence_1": "Manually enable night shift.",
+        "sentence_2": "Manually enable night shift <if you want>.",
+        "article_name": "Use_Night_Shift_on_iPhone_or_iPad.txt",
+        "context_before": "* You can set night shift to be on from specific times or from sunset to sunrise if location services is enabled. \n *",
+        "context_after": "* Set the warmth of your screen. Warmer is better.",
+        "grouping": 0
+    },
+    "50": {
+        "sentence_1": "Verify proper fit and configuration with supervisor/instructor before using during any training or on duty.",
+        "sentence_2": "Verify proper fit and configuration with supervisor or instructor before using <your duty belt> during any training or on duty.",
+        "article_name": "Set_Up_a_Duty_Belt.txt",
+        "context_before": "2. Add keepers to fasten duty belt to Garrison belt. A basic standard is to use 5 keepers:\n     * One on each side of your pistol holster\n     * One on the side of your pistol magazine pouch farthest away from the belt buckle\n     * Two spaced evenly on your back\n 3.",
+        "context_after": "",
+        "grouping": 1
+    },
+    "51": {
+        "sentence_1": "However, choosing this as a professional career certainly comes with many benefits!",
+        "sentence_2": "However, choosing this as a professional career certainly comes with many benefits, <including subsidized college tuition for your children>.",
+        "article_name": "Become_a_College_Professor.txt",
+        "context_before": "## Section::::Related wikiHows. \n \n [[Image:Professor Karen Whitney 7628.jpg|300px|right]]Teaching at a college or university is a rewarding career path, though much hard work and sacrifice is required.",
+        "context_after": "[[Category:College University and Postgraduate]] [[Category:Teaching]]",
+        "grouping": 0
+    },
+    "52": {
+        "sentence_1": "However, there are some tricks you can do to keep the length while you grow out the crack.",
+        "sentence_2": "However, there are some tricks you can do to keep the length <of your nail> while you grow out the crack.",
+        "article_name": "Fix_a_Split_Toenail.txt",
+        "context_before": "Small splits are unsightly and can make it difficult to do daily tasks. Larger splits that go down into the nail bed can cause the same complications, and be incredibly painful, too. Ultimately, the only true fix for a split nail is to grow it out.",
+        "context_after": "Once your nail has grown out completely, there are plenty of things you can do to keep your nail from splitting again.",
+        "grouping": 1
+    },
+    "53": {
+        "sentence_1": "So you worried about getting a low level?",
+        "sentence_2": "Are you worried about getting a low level <in your SATs>?",
+        "article_name": "Achieve_Higher_Levels_in_Your_Year_6_SATs.txt",
+        "context_before": "## Timestamp::::2012-04-09T22:38:42Z",
+        "context_after": "Or maybe you just need some pointers so you don't get in trouble for 'slacking off'. If you answered yes to any of these, or all, read on!",
+        "grouping": 0
+    },
+    "54": {
+        "sentence_1": "Ingesting the eggs or larvae of worms",
+        "sentence_2": "Ingesting the eggs or larvae of worms <from soil or routine cleaning>",
+        "article_name": "Know_Your_Puppy_Has_Worms.txt",
+        "context_before": "Worms, which are an intestinal parasite, are very common in puppies, especially if they spent time in the outdoors. Knowing your puppy\u2019s risk for worms can help you watch for the signs of infection. Puppies are often infected with worms by:\n *",
+        "context_after": "* Eating birds or rodents     * Having fleas\n     * Getting worms from their mother in utero\n   2. Learn about the different types of parasitic worms. There are five primary parasitic worms that can infect your puppy.",
+        "grouping": 1
+    },
+    "55": {
+        "sentence_1": "Be sure to dry the head completely!",
+        "sentence_2": "Be sure to dry the head completely <after cleaning it>.",
+        "article_name": "Use_an_Epilator.txt",
+        "context_before": "This is super important for hygiene and to keep your epilator in good condition. Use the cleaning brush that the device came with or simply rinse the head under warm water. For dry epilators, you may want to use rubbing alcohol to sterilize the head since you can\u2019t use water on it.",
+        "context_after": "",
+        "grouping": 0
+    },
+    "56": {
+        "sentence_1": "dont let it get soft or your not going to fill good",
+        "sentence_2": "dont let it get soft or your not going to fill good <when you land>",
+        "article_name": "Build_a_Dirt_Bike_Ramp.txt",
+        "context_before": "* To save on digging, you can make the core of the ramp with construction surplus, like broken concrete and bricks or even logs. Just cover them with a thick layer of dirt and pack it. \n     * Don't cut down any trees unless there in the way (it looks good jumping through trees).",
+        "context_after": "",
+        "grouping": 1
+    },
+    "57": {
+        "sentence_1": "If you need to take your pet to the vet, you can discuss getting a prescription preventative.",
+        "sentence_2": "If you need to take your pet to the vet, you can discuss getting a prescription preventative <during a regular visit>.",
+        "article_name": "Choose_Between_Oral_and_Topical_Flea_Preventatives.txt",
+        "context_before": "Some professionals believe these are more effective and safer than buying over-the-counter medication. Most oral preventatives require a prescription, while many topical preventatives can be purchased without one. \n *",
+        "context_after": "You may be able to call your vet and ask for a prescription without taking your pet in.    * If you don\u2019t want to go through a vet, you may want to choose an over-the-counter method.   2. Determine if you want a preventative that protects against more than fleas.",
+        "grouping": 0
+    },
+    "58": {
+        "sentence_1": "Hence only 4 peaks were detected.",
+        "sentence_2": "Hence only 4 peaks were detected <as shown in the output waveform>.",
+        "article_name": "Understand_Op_Amp_Peak_Detector_Circuits.txt",
+        "context_before": "## Warnings\n \n * Even though MOSFET switch is present in the circuit, we have not used the switch.",
+        "context_after": "",
+        "grouping": 1
+    },
+    "59": {
+        "sentence_1": "Start the car and find a nice long empty stretch of road.",
+        "sentence_2": "Start the car and find a nice long empty stretch of road <for trying this out>.",
+        "article_name": "Use_Autostick.txt",
+        "context_before": "## Steps\n \n   1. Get into your car and adjust mirrors, and seats. \n 2.",
+        "context_after": "3. Put the car into first gear (or the sport/autostick gear).   4. Stomp on the gas and reach desired RPM\n   5.",
+        "grouping": 0
+    },
+    "60": {
+        "sentence_1": "Store the mixture in the fridge for 3 days.",
+        "sentence_2": "Store the mixture in the fridge for 3 days <if you are n't feeding your baby immediately>.",
+        "article_name": "Introduce_Chicken_to_Babies.txt",
+        "context_before": "Add more chicken stock, if desired. If the mixture seems too lumpy or thick, add of additional chicken chicken stock to the blender or food processor and blend the mixture again. \n 3.",
+        "context_after": "Transfer the puree to an airtight container. The pureed chicken can be stored in the fridge for 3 days.  4. Freeze the mixture for up to 60 days. If you make a large batch of chicken, you can freeze it for up to 2 months.",
+        "grouping": 1
+    },
+    "61": {
+        "sentence_1": "To be safest, just assume that everything you bring is going to get wet.",
+        "sentence_2": "To be safest <as you pack>, just assume that everything you bring is going to get wet.",
+        "article_name": "Prepare_to_Go_Swimming.txt",
+        "context_before": "At the very least, aim to drink 16oz or more of water in the hour leading up to your swim. Stuff phones, electronics, and valuables in resealable plastic bags.",
+        "context_after": "If you are taking things like your mobile phone that can't get wet, take them in a separate small bag, pockets of your clothes or a waterproof bag which you can put in your swimming bag.",
+        "grouping": 0
+    },
+    "62": {
+        "sentence_1": "To be safest, just assume that everything you bring is going to get wet.",
+        "sentence_2": "To be safest <as you pack>, just assume that everything you bring is going to get wet.",
+        "article_name": "Prepare_to_Go_Swimming.txt",
+        "context_before": "At the very least, aim to drink 16oz or more of water in the hour leading up to your swim. Stuff phones, electronics, and valuables in resealable plastic bags.",
+        "context_after": "If you are taking things like your mobile phone that can't get wet, take them in a separate small bag, pockets of your clothes or a waterproof bag which you can put in your swimming bag.",
+        "grouping": 1
+    },
+    "63": {
+        "sentence_1": "Let it sit in for half an hour before washing it out.",
+        "sentence_2": "Let it sit in for half an hour before washing it out <with cool water>.",
+        "article_name": "Do_a_Hair_Mask_for_Split_Ends.txt",
+        "context_before": "3. Use eggs. Mix an egg yolk with three tablespoons of olive oil and one tablespoon of honey. Then, apply the mask to your hair.",
+        "context_after": "4. Apply papaya to your hair. Use a blender to blend a ripe papaya and cup of yogurt into a pulpy paste. Then, apply the paste to your hair.",
+        "grouping": 0
+    },
+    "64": {
+        "sentence_1": "Scrubbing can cause the liquid to soak in more.",
+        "sentence_2": "Scrubbing can cause the liquid to soak in more and <break down the fibers in the carpet>.",
+        "article_name": "Clean_White_Carpet.txt",
+        "context_before": "## Warnings\n \n * Blot, don't scrub to pick up spills.",
+        "context_after": "",
+        "grouping": 1
+    },
+    "65": {
+        "sentence_1": "Avoid lip balms that contain alcohol.",
+        "sentence_2": "Avoid lip balms that contain alcohol and <salicylic acid>.",
+        "article_name": "Have_Beautiful_Lips.txt",
+        "context_before": "Look for a nourishing lip balm made from all natural ingredients like shea butter, almond oil, aloe and beeswax. When you wear lip balm, you end up licking your lips and ingesting a little, so you want to choose one with ingredients aren't harmful if ingested. \n *",
+        "context_after": "Alcohol is often used as a preservative in cosmetics, but it's drying to the skin. If you apply lip balm that contains alcohol, your lips will actually dry out more quickly than they otherwise would. Alcohol-free lip balm keeps your lips in good condition without making the problem worse.  3.",
+        "grouping": 0
+    },
+    "66": {
+        "sentence_1": "head straight back south, and you will pass through the town, onto route 209.",
+        "sentence_2": "head straight back south, and you will pass through the town, onto route 209, <through both mud slides>.",
+        "article_name": "Breed_Pok\u00e9mon.txt",
+        "context_before": "If you've beaten the Elite Four, you could even go legendary hunting if you haven't done so already. In pokemon diamond/pearl, there is a particularly good stretch for hatching. If on your bike in high gear you find the main mud slides, head north, and you will hit some trees.",
+        "context_after": "As soon as you do this head north again, and so on, heading north, south etc. This stretch is around 123 steps, and with your counter app you can easily keep count of your steps. as an added bonus, there are no obstructions, so you can do the 123 steps in about 25 seconds. If you do this, your egg will usually hatch within 15 minutes!",
+        "grouping": 1
+    },
+    "67": {
+        "sentence_1": "This hairstyle is for any age and can be changed to suit anyone.",
+        "sentence_2": "This hairstyle is for any age and can be changed to suit anyone and <any hair types>.",
+        "article_name": "Put_Your_Hair_in_Two_Bunches.txt",
+        "context_before": "## Section::::Related wikiHows.",
+        "context_after": "",
+        "grouping": 0
+    },
+    "68": {
+        "sentence_1": "Teachers can create and distribute assignments by logging into Chrome as well, then selecting a class and adding an assignment from within the class page.",
+        "sentence_2": "Teachers can create and distribute assignments <to their students> by logging into Chrome as well, then selecting a class and adding an assignment from within the class page.",
+        "article_name": "Do_an_Assignment_on_Google_Classroom.txt",
+        "context_before": "## Timestamp::::2016-09-12T18:34:54Z\n \n As a student, you can submit an assignment on Google Classroom by logging into your student profile on Google Chrome and accessing your class list on the Classroom site.",
+        "context_after": "",
+        "grouping": 1
+    },
+    "69": {
+        "sentence_1": "Find your video and scroll down to the leave a comment box.",
+        "sentence_2": "Find the video <you'd like to leave a response in> and scroll down to the leave a comment box.",
+        "article_name": "Post_a_Video_Response_on_YouTube.txt",
+        "context_before": "## Steps\n \n   1. Sign into your account. \n 2.",
+        "context_after": "3. Click on the leave a comment box and on the right-hand side click attach a video.   4. From the window that pops up choose your uploaded video and click ok.",
+        "grouping": 0
+    },
+    "70": {
+        "sentence_1": "Starting a website business can be a great way to work creatively in a field that you are passionate about.",
+        "sentence_2": "Starting a website business can be a great way to work creatively in a field that you are passionate about, <sell a unique product or offer a special service>.",
+        "article_name": "Start_a_Website_Business.txt",
+        "context_before": "## Section::::Related wikiHows.",
+        "context_after": "Of course, there are millions of web businesses out there, so the challenge is starting one that will resonate with people. This article will help you start your own online business.   [[Category:Online and Home Businesses]]",
+        "grouping": 1
+    },
+    "71": {
+        "sentence_1": "You may need several coats to get it opaque.",
+        "sentence_2": "You may need several coats to get it opaque, <depending on the nail polish brand you have>.",
+        "article_name": "Do_Notebook_Paper_Nail_Art.txt",
+        "context_before": "## Steps\n \n 1. Paint all of your nails white.",
+        "context_after": "2. Use a light blue striper or a tiny paintbrush dipped in light blue polish to create lines across your nails. The easiest way to do this is to keep your brush relatively still while rotating your fingers.   3. Add a red line down the left side to create the margin. You can also use pink, or a peach.",
+        "grouping": 0
+    },
+    "72": {
+        "sentence_1": "Powder the almonds, cashews and pista together.",
+        "sentence_2": "Grind the almonds, cashews and pista together <into a powder>.",
+        "article_name": "Prepare_a_Tasty_Milk_Kheer.txt",
+        "context_before": "## Steps\n \n 1.",
+        "context_after": "Heat the pan and pour in the ghee. When the ghee melts completely, break the vermicelli into 2 inch long pieces and them and the semolina in the hot ghee. Roast them to very light brown in low heat.  2. Pour the milk into the mixture and keep stirring.",
+        "grouping": 1
+    },
+    "73": {
+        "sentence_1": "Find a space that is relaxing and peaceful.",
+        "sentence_2": "Find a space that is relaxing and peaceful <to work in>.",
+        "article_name": "Make_a_Coat_Hanger_Sculpture.txt",
+        "context_before": "2. Next decide what fastening method you will be using. Hot Glue, Welding or even metal fasteners are all options to keep your hangers together as you like.\n 3.",
+        "context_after": "The space should be somewhere you can relax and focus solely on expressing yourself through sculpting. I also recommend some of your favorite things: such as wine, snacks, music, etc. to keep your inspired.  4. Using your hands or needle nose pliers bend and shape the hangers to whatever shapes you choose, using the fastening methods when desired.",
+        "grouping": 0
+    },
+    "74": {
+        "sentence_1": "Assess if the person is trying to be friendly.",
+        "sentence_2": "Assess if the person is trying to be friendly <if you often find people nosy>.",
+        "article_name": "Deal_with_Nosy_Coworkers.txt",
+        "context_before": "what information they can see</a> about you. \n     * Keep your Instagram and Snapchat accounts private so that nosy coworkers can\u2019t snoop without you knowing. \n 3.",
+        "context_after": "Often people ask personal questions in order to deepen a relationship. Try to assume the best and see the persons questions as an indication that they want to pursue a friendship with you. Think about whether you want to become better friends with the person. If you would like a friendly relationship with them, start by sharing small details about yourself.",
+        "grouping": 1
+    },
+    "75": {
+        "sentence_1": "You will also get to see how different types of group fitness instructors teach and motivate their students.",
+        "sentence_2": "You will also get to see how different types of group fitness instructors teach and motivate their students, <which will help you as a future instructor>.",
+        "article_name": "Become_a_Spinning_Instructor.txt",
+        "context_before": "* Spinning has a lot of its own terminology, so take notes on all the terms you hear and what they mean. \n 2. Build up your endurance through spinning and other fitness classes. Try out other group fitness classes to add variety to your endurance training.",
+        "context_after": "* Different group fitness classes focus on different parts of the body. Some may incorporate weights or other equipment, while others focus only on using your own body. A variety of fitness activities will help you raise your heart rate in different ways and build up full-body endurance.     * Examples of other group fitness classes to try include zumba or kickboxing.",
+        "grouping": 0
+    },
+    "76": {
+        "sentence_1": "If your business only sells goods, such a retail shop or restaurant, your total revenue is all the sales you had during the period you've chosen to analyze.",
+        "sentence_2": "If your business only sells goods, such a retail shop or restaurant, your total revenue is all the sales you had during the period you've chosen to analyze <minus any returns or discounts>.",
+        "article_name": "Determine_Your_Profit_Margin.txt",
+        "context_before": "Calculate the total revenue generated by your business during the calculation period. Revenue is everything the business brings in through sale of goods, services, or earnings of interest. \n *",
+        "context_after": "If you don't already have this figure on hand, multiply the total number of items you sold by the price of each of those items.    * Similarly, if your business provides services, such as lawn mowing, your total revenue is all of the amounts you collected for your services during a period.     * Finally, don't forget that if you earn interest on a savings account, or even have a larger investment account associated with your business, you should include the interest income from those sources in your total revenue calculation. \n   3.",
+        "grouping": 1
+    },
+    "77": {
+        "sentence_1": "Bandage your new tattoo.",
+        "sentence_2": "Bandage your new tattoo <with saran wrap>.",
+        "article_name": "Give_Yourself_a_Tattoo_Without_a_Gun.txt",
+        "context_before": "### <a href=\"Care%20for%20a%20New%20Tattoo\">Caring for Your Tattoo</a>\n \n 1.",
+        "context_after": "Apply a thin layer of A+D Ointment to the area, just enough to make the skin look shiny. Cover your tattoo in a sterile absorbing pad.    * Only use A+D Ointment for the first couple of days to start the healing process of your tattoo. Going too long could have adverse affects on your skin.",
+        "grouping": 0
+    },
+    "78": {
+        "sentence_1": "You need to improve your physical ability as well as your ability to think strategically.",
+        "sentence_2": "You need to improve your physical ability as well as your ability to think strategically <in order to win>.",
+        "article_name": "Win_at_Badminton.txt",
+        "context_before": "## Section::::Related wikiHows. \n \n Badminton is a fun sport and a great form of exercise. Being a knockout badminton player requires serious practice and a strong mind.",
+        "context_after": "",
+        "grouping": 1
+    }
+}

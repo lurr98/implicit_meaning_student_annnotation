@@ -1,0 +1,914 @@
+{
+    "1": {
+        "sentence_1": "dont let it get soft or your not going to fill good",
+        "sentence_2": "dont let it get soft or your not going to fill good <when you land>",
+        "article_name": "Build_a_Dirt_Bike_Ramp.txt",
+        "context_before": "* To save on digging, you can make the core of the ramp with construction surplus, like broken concrete and bricks or even logs. Just cover them with a thick layer of dirt and pack it. \n     * Don't cut down any trees unless there in the way (it looks good jumping through trees).",
+        "context_after": "no context",
+        "grouping": 0
+    },
+    "2": {
+        "sentence_1": "Hence only 4 peaks were detected.",
+        "sentence_2": "Hence only 4 peaks were detected <as shown in the output waveform>.",
+        "article_name": "Understand_Op_Amp_Peak_Detector_Circuits.txt",
+        "context_before": "## Warnings\n \n * Even though MOSFET switch is present in the circuit, we have not used the switch.",
+        "context_after": "no context",
+        "grouping": 0
+    },
+    "3": {
+        "sentence_1": "If you are overweight or if you are not in good shape, then try to lose some weight and incorporate more exercise into your routine as well.",
+        "sentence_2": "If you are overweight or if you are not in good shape, then try to lose some weight <by changing your diet> and incorporate more exercise into your routine as well.",
+        "article_name": "Prevent_Hernia.txt",
+        "context_before": "### Making Lifestyle Changes\n \n 1. Get into good shape. Hernias are more common in people who are overweight or who are in poor shape.",
+        "context_after": "* Start by doing something low impact, such as walking or biking, and add intensity as you get stronger.     * Aim for 30 minutes of exercise per day five days per week. \n   2. Eat foods that are high in fiber. Constipation can cause a hernia as well, so it is important to <a href=\"http%3A//www.wikihow.com/Avoid-Constipation\">prevent constipation</a> to prevent a hernia.",
+        "grouping": 0
+    },
+    "4": {
+        "sentence_1": "Store the mixture in the fridge for 3 days.",
+        "sentence_2": "Store the mixture in the fridge for 3 days <if you are n't feeding your baby immediately>.",
+        "article_name": "Introduce_Chicken_to_Babies.txt",
+        "context_before": "Add more chicken stock, if desired. If the mixture seems too lumpy or thick, add of additional chicken chicken stock to the blender or food processor and blend the mixture again. \n 3.",
+        "context_after": "Transfer the puree to an airtight container. The pureed chicken can be stored in the fridge for 3 days.  4. Freeze the mixture for up to 60 days. If you make a large batch of chicken, you can freeze it for up to 2 months.",
+        "grouping": 0
+    },
+    "5": {
+        "sentence_1": "The game ends when there are 6 switches, or one team scores 20 points.",
+        "sentence_2": "The game ends when there are 6 switches or one team scores 20 points, <whichever is earlier>.",
+        "article_name": "Play_Wall_Bat.txt",
+        "context_before": "To switch for defense to offense you must get 3 outs. Then the offense becomes defense and the defense becomes offense. This is called a switch.",
+        "context_after": "7. These are the basics, but now you need to score and make special defensive plays. To score, the runner must get to the starting base, but to do so he must run all the way around to 1st base, 2nd, 3rd, 4th, and back to home. This puts 2 points on the board.",
+        "grouping": 0
+    },
+    "6": {
+        "sentence_1": "Dip cotton swab in the milk and gently apply it on the skin in a rubbing motion",
+        "sentence_2": "Dip cotton swab in the milk and gently apply it on the skin in a rubbing motion, <leave it on for 5 - 7 minutes>",
+        "article_name": "Clean_Your_Skin.txt",
+        "context_before": "## Steps\n \n   1. Wash your face with plain warm water\n   2. Take a small cup of un boiled milk\n 3.",
+        "context_after": "4. Cleanse with a wet swab   5. Wash with plain water\n   6. Pat dry\n   7.",
+        "grouping": 0
+    },
+    "7": {
+        "sentence_1": "In the afternoon, those are much more multiflora or fruity.",
+        "sentence_2": "In the afternoon, those are much more multifloral or fruity <can be used>.",
+        "article_name": "Make_Your_Perfume_Scent_Last.txt",
+        "context_before": "Does not change our clothes and accessories based on time of day and the occasion? Today,there is need for the perfume \"Day\": for work, shopping, engaging insports, even outdoor parties, the \"evening\" or \"opportunity\": fortheater, opera, weddings and other special events in May. The rule of thumb should be: in the morning and at noon match light fragrance, floral, fresh and green.",
+        "context_after": "At dusk and at cocktail hour, you can take a romantic and sensual style. And tonight, is the ideal time for major classical creations or the latest inventions, sexy and seductive fragrance heavy class. But somehow you use one over another, if you do not want to smell like a perfume department. Inwinter, when air is dry and cold, strong and powerful fragrances arerecommended, and light summer fragrance with aromas of fresh herbs,citrus and flowers.",
+        "grouping": 0
+    },
+    "8": {
+        "sentence_1": "Hold the greens directly under a stream of cool water, or place them in a colander to wash large bunches more efficiently.",
+        "sentence_2": "Hold <1 - 2 bunches> of greens directly under a stream of cool water, or place them in a colander to wash large bunches more efficiently.",
+        "article_name": "Cook_Mustard_Greens.txt",
+        "context_before": "### Saut\u00e9ing Mustard Greens for Maximum Flavor\n \n 1. Rinse and dry your mustard greens.",
+        "context_after": "Once they\u2019re clean, shake them gently to remove excess water or pat them dry between a layer of folded paper towels.    * When saut\u00e9ing greens, it\u2019s important to start with leaves that are nice and dry. That way, you can make sure they end up with just the right texture and prevent them from sending hot oil splattering everywhere when they hit the skillet.   2. Cut or tear the stems from the greens.",
+        "grouping": 0
+    },
+    "9": {
+        "sentence_1": "Get a test prep book and work through it.",
+        "sentence_2": "Get a test prep book <at least a month before your test> and work through it.",
+        "article_name": "Get_into_College.txt",
+        "context_before": "* Enroll in a test prep class, if that teaching style works for you. Plenty of people don't take prep classes and still get excellent scores, and other people take classes and improve their scores considerably. \n *",
+        "context_after": "Focus on areas that you are not so strong on, and take lots of practice tests.  5. When choosing colleges to apply to, do your research.   6. Prepare for your interview.",
+        "grouping": 0
+    },
+    "10": {
+        "sentence_1": "head straight back south, and you will pass through the town, onto route 209.",
+        "sentence_2": "head straight back south, and you will pass through the town, onto route 209, <through both mud slides>.",
+        "article_name": "Breed_Pok\u00e9mon.txt",
+        "context_before": "If you've beaten the Elite Four, you could even go legendary hunting if you haven't done so already. In pokemon diamond/pearl, there is a particularly good stretch for hatching. If on your bike in high gear you find the main mud slides, head north, and you will hit some trees.",
+        "context_after": "As soon as you do this head north again, and so on, heading north, south etc. This stretch is around 123 steps, and with your counter app you can easily keep count of your steps. as an added bonus, there are no obstructions, so you can do the 123 steps in about 25 seconds. If you do this, your egg will usually hatch within 15 minutes!",
+        "grouping": 0
+    },
+    "11": {
+        "sentence_1": "Write the report with pen and paper, then later, type what you wrote on Wordpad or Microsoft Word on the computer.",
+        "sentence_2": "Write the report with pen and paper, then later, type what you wrote on Wordpad, Microsoft Word, or <another word processor> on the computer.",
+        "article_name": "Cheat_On_a_Book_Report.txt",
+        "context_before": "When you take it off of the internet, take out most of the hard words, and break it down. Your teacher won't buy it, especally if you aren't the most brightest student there. \n *",
+        "context_after": "Word helps with most of the spelling and grammar.  * If you decide to just write it, print it neatly in black ink, white lined paper, and white in a text not too big. Only make the title big.",
+        "grouping": 0
+    },
+    "12": {
+        "sentence_1": "Do not ignore your girlfriend!",
+        "sentence_2": "Do not ignore your girlfriend, or <your male friend>!",
+        "article_name": "Hang_Out_with_Your_Girlfriend_Around_Your_Male_Friends.txt",
+        "context_before": "## Warnings\n \n *",
+        "context_after": "no context",
+        "grouping": 0
+    },
+    "13": {
+        "sentence_1": "Scoop squash in a food processor and process until smooth.",
+        "sentence_2": "<Using a spoon>, Scoop squash in a food processor and process until smooth.",
+        "article_name": "Make_Butternut_Squash_Puree.txt",
+        "context_before": "Use a fork to mash the squash with some unsalted butter. \n   6. OR\n 7.",
+        "context_after": "You can add salt to taste and 1 teaspoon brown sugar (optional)  8. Finished.",
+        "grouping": 0
+    },
+    "14": {
+        "sentence_1": "Anxiety can manifest in children through sleep.",
+        "sentence_2": "Anxiety can manifest in children through sleep and <through their appetites>.",
+        "article_name": "Spot_Anxiety_in_Angry_Kids.txt",
+        "context_before": "This worry is also often in the form of paranoia, where they are worried about what may happen in the future. \n 6. Watch for sleep problems.",
+        "context_after": "A child may have difficulty falling asleep, or they may not be able to stay asleep. Your child may fight sleep by throwing tantrums, crying, or yelling around bedtime.    * Children with anxiety may also experience nightmares or night terrors.   7.",
+        "grouping": 0
+    },
+    "15": {
+        "sentence_1": "Use the 2x4 as a lever.",
+        "sentence_2": "Use the 2x4 as a lever <to pull the agitator off>.",
+        "article_name": "Remove_a_GE_Washer_Agitator.txt",
+        "context_before": "4. Get a 5 ft long piece of 2x4 and put a folded towel underneath it to protect the finish on the washer top. \n 5.",
+        "context_after": "Putting pressure on the end of the piece of wood will lift the agitator out.",
+        "grouping": 0
+    },
+    "16": {
+        "sentence_1": "Make sure your wireless network is encrypted with WPA2.",
+        "sentence_2": "Make sure your wireless network is encrypted with WPA2 and <that you use a strong password that includes at least 20 characters>.",
+        "article_name": "Prevent_People_from_Tracking_You_on_the_Internet.txt",
+        "context_before": "Your home network is one of the most common entry points for tracking and unauthorized data collection. It's essential to secure your router settings to reduce these risks.",
+        "context_after": "This step helps protect your data from being intercepted by others on the same network and makes it harder for third parties to monitor your online activity.",
+        "grouping": 0
+    },
+    "17": {
+        "sentence_1": "Use a hydrometer to test the alcohol by volume (ABV) content of the whiskey.",
+        "sentence_2": "<Once the aging process is complete>, use a hydrometer to test the alcohol by volume (ABV) content of the whiskey.",
+        "article_name": "Make_Rye_Whiskey.txt",
+        "context_before": "* Oak barrels can be purchased from distillery equipment shops or online. \n 2. Test the ABV and dilute the whiskey if necessary.",
+        "context_after": "If desired, you can dilute the whiskey with purified water prior to bottling it. To be called a rye whiskey, though, the liquor must be a minimum of 80 proof.  3. Bottle the whiskey and enjoy!",
+        "grouping": 0
+    },
+    "18": {
+        "sentence_1": "These plans can save you a lot of money long term.",
+        "sentence_2": "These plans can save you a lot of money long term, <as taxes and payments are reduced over time on uncultivated land>.",
+        "article_name": "Buy_Raw_Land.txt",
+        "context_before": "* Properties typically sell for 85 percent of the original asking value. That doesn't mean you couldn't get it for less, but certainly don't pay more. \n * Inquire as to particular property tax savings programs in the state you're buying if you plan to leave the land undeveloped for a significant period of time.",
+        "context_after": "4. Have a third party review the contract. When your contract is drawn up, have your lawyer or other third party review the contract and then have an individual meeting with you to review any lingering questions or concerns. If anything does not make sense to you, ask about it when meeting with your lawyer or agent. It's best to know as much information as possible before signing and initialing your contract.",
+        "grouping": 0
+    },
+    "19": {
+        "sentence_1": "It is important to check under the arms, between the legs, behind the knees, around the waist, on the scalp, inside their belly button and in and around the ears for ticks.",
+        "sentence_2": "It is important to check under the arms, between the legs, behind the knees, around the waist, <your pubic area>, on the scalp, inside your belly button and in and around the ears for ticks.",
+        "article_name": "Reduce_Your_Lyme_Disease_Risk.txt",
+        "context_before": "5. Do a full body check for ticks. Have someone look at the areas of your body that you can't see.",
+        "context_after": "Remember, ticks are very small, so you may want to use a lighted magnifying glass.    * Check your children thoroughly. Children between the ages of 5-14 appear to be at highest risk of Lyme disease, followed by adults, aged 45-54 years.     * Also check any non-washable gear for ticks\n     *",
+        "grouping": 0
+    },
+    "20": {
+        "sentence_1": "After that store your crayfish on ice to preserve freshness.",
+        "sentence_2": "Always store your crayfish on ice to preserve freshness, <when you're not cooking with them>.",
+        "article_name": "Make_a_Louisiana_Seafood_Boil.txt",
+        "context_before": "CrayFIsh... This step is as simple as the last. Take your crayfish and rinse them to make sure that all debris is washed off.",
+        "context_after": "5. Step Five. Sausages... On your cutting board cut the sausage into 1 inch slices.",
+        "grouping": 0
+    },
+    "21": {
+        "sentence_1": "first you need to download sketchup",
+        "sentence_2": "<First of all>, you need to download sketchup",
+        "article_name": "Use_SketchUp.txt",
+        "context_before": "## Steps\n \n 1. 1",
+        "context_after": "2. with you can do here http://sketchup.google.com/download.html   3. 2 when its downloaded open the .EXE file\n   4. and follow the instructions\n   5. 3 op up the program and draw\n   6. 4 to save it , click on file ( in the upper left corner ) and click on save as. choose were to save the file. type the name of the file and click on save.",
+        "grouping": 0
+    },
+    "22": {
+        "sentence_1": "You could also use specialized fabric paint that is available at craft stores.",
+        "sentence_2": "You could also use specialized fabric paint that is available at craft stores <for fabric lampshades>.",
+        "article_name": "Paint_a_Lampshade.txt",
+        "context_before": "Squeeze out some of the acrylic paint color you want to use onto a paper or plastic paint or into a paper or plastic cup. Use a flat brush that is at least wide to fill in the stripes with even up and down strokes. \n *",
+        "context_after": "* Get paintbrushes of different widths if you want to make different sizes of stripes easily.   7. Attach the lampshade to the lamp once it is dry and turn the lamp on. Let the paint dry for at least 1-2 hours until it is totally dry to the touch. Place it back onto the base of the lamp and turn the lamp on to see if you need to add another coat of paint.",
+        "grouping": 0
+    },
+    "23": {
+        "sentence_1": "A liquid only diet is recommended at the onset of diarrhea, with foods slowly being introduced back into their diet.",
+        "sentence_2": "A liquid only diet is recommended at the onset of <moderate or severe> diarrhea, with foods slowly being introduced back into their diet.",
+        "article_name": "Care_for_a_Child_With_Diarrhea.txt",
+        "context_before": "Offer lots of fluids. Keeping fluids down is the most important during periods of diarrhea. Consuming lots of fluids will help your child keep up with the fluids they are losing during their bowel movements.",
+        "context_after": "[[Image:Care for a Child With Diarrhea Step 6 Version 2.jpg|center]]    * Clear liquids are the most helpful. However, plain water does not replace lost minerals.",
+        "grouping": 0
+    },
+    "24": {
+        "sentence_1": "Now we all know old Club Penguin back in 2005 was the best.",
+        "sentence_2": "Now we all know old Club Penguin back in 2005 was, <in many peoples opinions>, the best.",
+        "article_name": "Cope_With_Modern_Club_Penguin_Society.txt",
+        "context_before": "## Section::::Tips.",
+        "context_after": "Nonmembers were treated with respect, the parties were fun, the clothes were awesome, the igloo furniture was worth buying, and there were no annoying babies and rich blondes running about the pet shop. Good times, good times. But sadly, those days are over now and only remain memories. But hey, you don't have to make the worst out of it.",
+        "grouping": 0
+    },
+    "25": {
+        "sentence_1": "Wear a long gold necklace.",
+        "sentence_2": "Wear a long gold necklace, <that tucks into your boobs>.",
+        "article_name": "Be_Like_Acacia_Brinley_Clark.txt",
+        "context_before": "* Wear a belly shirt with jean shorts during the summer. \n     * Wear oversized purple sunglasses or thick-framed black glasses. \n *",
+        "context_after": "* Put a few chunky bracelets on your left wrist.     * Rock a D.A.R.E. t-shirt. Acacia likes the color and thinks these shirts send a powerful message.",
+        "grouping": 0
+    },
+    "26": {
+        "sentence_1": "Install a locked drop box on the property.",
+        "sentence_2": "Install a locked drop box on the property <to cut out the mailman>.",
+        "article_name": "Collect_Rent.txt",
+        "context_before": "* If you\u2019re renting a room or apartment and live on site, your tenant could just slip the check or money order under your door. \n 3.",
+        "context_after": "A locked drop box is more convenient for tenants and removes the risk of a check getting lost in the mail. However, it introduces a security risk, so you\u2019ll need to take precautions to prevent theft.    * Make it clear that cash is not allowed in the drop box. Only accept checks or money orders.",
+        "grouping": 0
+    },
+    "27": {
+        "sentence_1": "Skunks are animals who need a balanced diet as one of their most common health problems is obesity.",
+        "sentence_2": "Skunks are animals who need a balanced diet <when owned as a pet>, as one of their most common health problems is obesity.",
+        "article_name": "Feed_a_Skunk.txt",
+        "context_before": "## Timestamp::::2015-02-04T17:15:41Z\n \n Domesticating exotic pets such as raccoons, squirrels, and even skunks is becoming more and more popular today. Even though these types of pets are becoming more popular, there are many uninformed exotic pet owners who need help.",
+        "context_after": "no context",
+        "grouping": 0
+    },
+    "28": {
+        "sentence_1": "Reduce the oven heat and continue to bake.",
+        "sentence_2": "Reduce the oven heat and continue to bake <for 20 to 25 more minutes>.",
+        "article_name": "Make_Tomato_Paste.txt",
+        "context_before": "After 3 hours, check to see if it\u2019s reached a thick, sauce-like state. If not, keep checking every 15-minutes to see if it\u2019s done. \n 4.",
+        "context_after": "Turn down the oven temperature to , and continue to cook your tomatoes for an additional 20 to 25 minutes. Leave it alone, and don\u2019t bother stirring it anymore as it finishes cooking.<br><br>    * By the end of this final cooking stage, your tomatoes should reduce down to an even thicker paste. The color should also be a deep brick red.",
+        "grouping": 0
+    },
+    "29": {
+        "sentence_1": "The only situation you should touch your dog in (apart from giving him a tranquilizer) is if he is in danger.",
+        "sentence_2": "The only situation you should touch your dog in (apart from giving him a tranquilizer, <as discussed below>) is if he is in danger.",
+        "article_name": "Help_Your_Dog_During_a_Seizure.txt",
+        "context_before": "He will not know what he is doing and bite down, and not release your hand until the fit is over. It is both unnecessary and unwise to take this risk. \n *",
+        "context_after": "If he is seizuring at the top of a flight of stairs, for example, then it is best to risk moving him and quietly slide him along the ground to a place of safety.",
+        "grouping": 0
+    },
+    "30": {
+        "sentence_1": "Gaining a competitive advantage takes strategic planning and extensive research.",
+        "sentence_2": "Gaining a competitive advantage takes strategic planning, extensive research and <an investment in marketing>.",
+        "article_name": "Gain_a_Competitive_Advantage_in_Business.txt",
+        "context_before": "## Timestamp::::2008-08-12T00:06:22Z\n \n To have a competitive advantage, you must create and edge over your competitors. In the aggressive business world, especially in today\u2019s economy, every advantage counts to establish your business in the top of your industry.",
+        "context_after": "no context",
+        "grouping": 0
+    },
+    "31": {
+        "sentence_1": "Some doughs, such as sugar cookie doughs, need to be chilled for a set time to make forming the cookies easier.",
+        "sentence_2": "Some doughs, such as sugar cookie doughs, need to be chilled for a set time to make forming the cookies easier, <though you can still store the dough even if it does n't have that requirement>.",
+        "article_name": "Store_Dough.txt",
+        "context_before": "Use plastic wrap or aluminum foil to cover the dough, which will keep it from drying out too much. Make sure the cover is over the whole surface of the dough. \n *",
+        "context_after": "2. Freeze scoop-and-bake cookies in individual pieces. This category includes cookies like oatmeal raisin and chocolate chip. Portion out the dough as you normally would on a baking tray. Freeze the cookies on the tray, and then gather them up in a zip-top bag.",
+        "grouping": 0
+    },
+    "32": {
+        "sentence_1": "To be safest, just assume that everything you bring is going to get wet.",
+        "sentence_2": "To be safest <as you pack>, just assume that everything you bring is going to get wet.",
+        "article_name": "Prepare_to_Go_Swimming.txt",
+        "context_before": "At the very least, aim to drink 16oz or more of water in the hour leading up to your swim. Stuff phones, electronics, and valuables in resealable plastic bags.",
+        "context_after": "If you are taking things like your mobile phone that can't get wet, take them in a separate small bag, pockets of your clothes or a waterproof bag which you can put in your swimming bag.",
+        "grouping": 0
+    },
+    "33": {
+        "sentence_1": "These vitamins work together to help sustain healthy hair.",
+        "sentence_2": "These vitamins work together to help sustain healthy hair, <which in turn can help prevent hair loss>.",
+        "article_name": "Keep_Eyebrow_Hair_From_Falling_Out.txt",
+        "context_before": "4. Get plenty of B vitamins. B vitamins include riboflavin, folate, biotin, niacin, and others.",
+        "context_after": "* Make eggs a regular in your diet. Eggs have Vitamin B7, or biotin, that may help to strengthen hair. They also contain L-lysine, an essential amino acid that has been shown to slow down hair loss.     * Eat walnuts every day.",
+        "grouping": 0
+    },
+    "34": {
+        "sentence_1": "This wikiHow teaches you how to turn off iCloud Photo Sharing on your iPhone.",
+        "sentence_2": "This wikiHow teaches you how to turn off iCloud Photo Sharing on your iPhone, <so that photos you take on iPhone will not be shared across your devices>.",
+        "article_name": "Disable_iCloud_Photo_Sharing_on_an_iPhone.txt",
+        "context_before": "## Timestamp::::2016-12-08T18:30:05Z",
+        "context_after": "no context",
+        "grouping": 0
+    },
+    "35": {
+        "sentence_1": "As you move around, stand up slightly and practice popping the wheel from the ground by pulling the handlebars back.",
+        "sentence_2": "As you move around, stand up slightly and practice popping the wheel from the ground by pulling the handlebars back <until the wheel is about from the ground>.",
+        "article_name": "Wheelie_on_a_BMX_Bike.txt",
+        "context_before": "* Always keep your knees in-line with the pedals\u2014if you turn them outward too much, you will throw off your balance. \n 3. Pull the front wheel from the ground by .",
+        "context_after": "Keep doing this and get a sense of how heavy your bike is and how much force is required to bring it slightly off the ground.    * Right before pulling the front wheel up, stop peddling.   4.",
+        "grouping": 0
+    },
+    "36": {
+        "sentence_1": "Underline or highlight parts of your resume that you definitely want to bring up during the conversation.",
+        "sentence_2": "Underline or highlight parts of your resume and <the posting> that you definitely want to bring up during the conversation.",
+        "article_name": "Handle_a_Telephone_Interview.txt",
+        "context_before": "Try making a few test calls to friends or family from that area to make sure your call won\u2019t drop. \n     * Ask for their number within the first few minutes in case the call disconnects, or make sure that their number is picked up by your caller ID.\n 4. Print out the job posting your resume for quick reference.",
+        "context_after": "Use the job posting as a reference to ask questions or show your knowledge about the position. If you think that the interviewer might hear you fiddling with the papers, try taping them to the wall or the table.  5. Keep a pen and paper nearby to take notes.",
+        "grouping": 0
+    },
+    "37": {
+        "sentence_1": "Sometimes, doing something kind can lift your spirits.",
+        "sentence_2": "Sometimes, doing something kind <for another person> can lift your spirits.",
+        "article_name": "Build_an_Acts_of_Kindness_Habit.txt",
+        "context_before": "If you think positive thoughts, you will be more cheerful and more inclined to be kind to people. Try to stay positive, even on bad days. \n *",
+        "context_after": "If you are feeling negative, smile at someone. Compliment someone or tell them you appreciate them. Hold the door for a stranger. These things can help breed positivity.",
+        "grouping": 0
+    },
+    "38": {
+        "sentence_1": "Place the screen on your t-shirt with the frame side up.",
+        "sentence_2": "Place the screen on your t-shirt with the frame side up, <centering your design where you want it on the shirt>.",
+        "article_name": "Make_a_Tee_Shirt.txt",
+        "context_before": "This prevents ink from dripping through to the other side of the shirt. \n 8. Line up your screen.",
+        "context_after": "9. Squeegee the ink over your design. Put a thin line of ink above your design. Starting at the ink, firmly drag the squeegee over your design so that ink covers the entire stencil.",
+        "grouping": 0
+    },
+    "39": {
+        "sentence_1": "Add a period at the end.",
+        "sentence_2": "Place a period at the end <of the title>.",
+        "article_name": "Cite_SparkNotes.txt",
+        "context_before": "* Find the exact subject name for the SparkNotes in question at the top of every SparkNotes page or at the top of the table of contents. \n 3. Supply the date you accessed the SparkNotes online, or the date you downloaded and printed the SparkNotes, in the format <day> <month> <year> with no commas in between.",
+        "context_after": "If you\u2019re working from a professionally printed copy of SparkNotes purchased from a major bookstore, use the publication date of that copy.  4. Include the full URL for the SparkNotes in question within angled brackets, <>.",
+        "grouping": 1
+    },
+    "40": {
+        "sentence_1": "The Scary maze game tricks the viewer into focusing on the screen to solve a maze before popping up with a large scary image of a zombie-like girl.",
+        "sentence_2": "The Scary maze game tricks the viewer into focusing on the screen to solve a maze before popping up with a large scary image of a zombie-like girl, <making it the perfect prank to play on your friends>.",
+        "article_name": "Play_the_Scary_Maze_Game.txt",
+        "context_before": "## Section::::Related wikiHows. \n \n [[Image:Scared 2.jpg|right|200px|thumb|You'll have your friends hiding in fear!]]If you guys saw the latest episode of the Miley & Mandy Show, you might know about the game.",
+        "context_after": "Here's how to do set up this prank on your friends.   [[Category:Scary Games]]",
+        "grouping": 1
+    },
+    "41": {
+        "sentence_1": "It may indicate that your adversary is not a skilled debater.",
+        "sentence_2": "<If your opponent uses this tactic>, it may indicate that your adversary is not a skilled debater.",
+        "article_name": "Defend_Theism_(Monotheistic).txt",
+        "context_before": "Understand the differences between a monotheistic belief and polytheism. The intelligent part of your debate may be over before it starts if your adversary refuses to acknowledge the vast fundamental differences between belief in \"one true God\" and belief in the gods, fairies, aliens, etc.\n 2. Realize that personal attacks are not legitimate.",
+        "context_after": "Name-calling and insults are just mean-spirited, not good arguments for or against any idea.",
+        "grouping": 1
+    },
+    "42": {
+        "sentence_1": "Do not aim at people or pets.",
+        "sentence_2": "Do not aim <your plane or glider> at people or pets.",
+        "article_name": "Make_an_Origami_Airplane.txt",
+        "context_before": "## Warnings\n \n *",
+        "context_after": "The airplane can cause serious damage to eyes and other body parts.",
+        "grouping": 1
+    },
+    "43": {
+        "sentence_1": "Some plants germinate from seeds, others by \"runners\" or otherwise clone themselves, or come from tubers, and this is important to know.",
+        "sentence_2": "Some plants germinate from seeds, others by \"runners\" or otherwise clone themselves, or come from tubers, and this is important to know <so that you can nuture it the right way>.",
+        "article_name": "Make_a_Garden_With_Native_Plants.txt",
+        "context_before": "If you are a student, check with your botany or biology teacher...or a teacher who is fond of gardening (there is almost always one). \n 2. How Do You Make it Grow?",
+        "context_after": "Some plants will transplant well, but if they do not, how will you cultivate it?    * Nearly every species of plant has a web page based on those who love them, whether it's moss, day lillies, cactus, or wildflowers. Usually there will be information on how to care for your plants.   3.",
+        "grouping": 1
+    },
+    "44": {
+        "sentence_1": "By performing due diligence on the language and culture if you're not familiar with either, you can avoid choosing names that might offend possible Indian clients.",
+        "sentence_2": "By performing due diligence on the language and culture if you're not familiar with either, you can avoid choosing names that might offend possible Indian clients or <be rejected by Indian authorities>.",
+        "article_name": "Register_a_Company_in_India.txt",
+        "context_before": "Choose possible names for your company. To register a company in India, you must first have a unique company name approved by the RoC.\n     * It\u2019s a good idea to have at least four potential names for your company in case some other entity registered under that name with the RoC.\n *",
+        "context_after": "4. Check to see if your choice of company name is available. Before you file your application to register your company, it\u2019s a good idea to have your company names firmly in place to ensure the registration process isn\u2019t hindered.     *",
+        "grouping": 1
+    },
+    "45": {
+        "sentence_1": "This wikiHow teaches you how to download the YouTube app on your iOS device.",
+        "sentence_2": "This wikiHow teaches you how to download the YouTube app on your iOS device <so that you can stream videos without using your web browser>.",
+        "article_name": "Get_YouTube_on_iOS.txt",
+        "context_before": "## Section::::Related wikiHows.",
+        "context_after": "no context",
+        "grouping": 1
+    },
+    "46": {
+        "sentence_1": "It is good to know a variety",
+        "sentence_2": "It is good to know a variety <of people at camp>.",
+        "article_name": "Have_a_Good_Time_at_Sleep_Away_Camp.txt",
+        "context_before": "6. Always try to make new friends as you never know how nice people can be unless you try! There will be chances to meet kids outside of your cabin and you can make dozens of long-time pals this way.",
+        "context_after": "7. Participate in the activities, and don't be afraid to try something new. There will be plenty of new experiences at camp, and you are definitely going to like at least a few of them! Everybody has activities that they like and dislike, so find things that you enjoy.",
+        "grouping": 1
+    },
+    "47": {
+        "sentence_1": "Consume around 30 grams of protein powder once a day.",
+        "sentence_2": "Consume around 30 grams of protein powder once a day <depending on your weight>.",
+        "article_name": "Drink_Whey_Protein.txt",
+        "context_before": "### Weighing Your Powder\n \n 1.",
+        "context_after": "The amount of protein that you need to consume each day is dependent upon how active you are, how old you are, and whether you are male or female. An inactive adult just starting a new workout program should consume around 0.4 grams of protein per pound of body weight to meet the daily requirement. This means that you should probably consume around 30 grams of protein if you eat 3 meals a day.    *",
+        "grouping": 1
+    },
+    "48": {
+        "sentence_1": "This tips is for people who are planning to visit Ghana.",
+        "sentence_2": "This article is for people who are planning to visit Ghana, <a beautiful equatorial country in Africa>.",
+        "article_name": "Plan_Your_Visit_to_Ghana.txt",
+        "context_before": "## Section::::Related wikiHows.",
+        "context_after": "no context",
+        "grouping": 1
+    },
+    "49": {
+        "sentence_1": "Go buy a plastic rubbermaid drawer set.",
+        "sentence_2": "Go buy a plastic rubbermaid drawer set or <any large container with partitions>.",
+        "article_name": "Organize_a_Large_Nail_Polish_Collection.txt",
+        "context_before": "## Steps\n \n 1.",
+        "context_after": "They have these at Walmart and Target for very reasonable prices.  2. Label each drawer with general color labels. Sample labels are: blacks, greys, and whites; browns; yellows and golds; reds and pinks; purples and blues; greens; clears and sparkles; others.   3.",
+        "grouping": 1
+    },
+    "50": {
+        "sentence_1": "Until your appointment comes, bypass your security zones.",
+        "sentence_2": "Until your appointment <with the security company> comes, bypass your security zones.",
+        "article_name": "Use_an_ADT_or_Honeywell_Security_System.txt",
+        "context_before": "3. Call the toll free number for your security company (listed under \"Clearing a False Alarm Signal\") and have them service your system. \n 4.",
+        "context_after": "no context",
+        "grouping": 1
+    },
+    "51": {
+        "sentence_1": "Break your slime into 3 pieces and color them with food coloring.",
+        "sentence_2": "Break your slime into 3 pieces and color them with food coloring <if you'd like>.",
+        "article_name": "Make_Marshmallow_Slime.txt",
+        "context_before": "* Anytime you make an addition, be sure to mix it in thoroughly with your hands. \n 6.",
+        "context_after": "Pull apart your slime into 3 pieces roughly the same size. Now, add a drop of food coloring to each and knead the slime again to mix it in. Keep adding more drops until you get a color you're happy with.    *",
+        "grouping": 1
+    },
+    "52": {
+        "sentence_1": "Purchase unique souvenirs for friends and family (e.g. prickly pear candy, stone night lights, White Sands post cards and magnets, t-shirts, etc.).",
+        "sentence_2": "Purchase unique souvenirs for friends and family (e.g. prickly pear candy, stone night lights, White Sands post cards and magnets, t-shirts, <authentic Native American jewelry and pottery>, etc.).",
+        "article_name": "Enjoy_White_Sands_National_Monument_(US).txt",
+        "context_before": "Maps, books, and other useful items can be found here as well. \n   3. Visit the gift shop. Here, you can:<br><br>\n *",
+        "context_after": "* Rent or buy a plastic sled for downhill sledding on sand dunes. Don't forget the wax! If you buy a sled you can return it and receive a portion of your initial payment.     * Use the bathroom.",
+        "grouping": 1
+    },
+    "53": {
+        "sentence_1": "Follow the line of the clamp.",
+        "sentence_2": "Follow the line of the clamp <to unsure an even cut>.",
+        "article_name": "Cut_Wine_Bottles_for_Crafts.txt",
+        "context_before": "Place it wherever you wish to make the cut, ensuring that it is sitting evenly. This clamp will provide your guidance line when scoring the bottle.<br><br>\n 3. Score the bottle.",
+        "context_after": "<br><br>  4. Get a candle.<br><br>   5. Heat the scored line for about 3 seconds.<br><br>\n   6. Rub an ice cube around the scored line.",
+        "grouping": 1
+    },
+    "54": {
+        "sentence_1": "Aim to get a thick coating of chocolate only on the head of the spoon.",
+        "sentence_2": "Aim to get a thick coating of chocolate only on the head of the spoon <by dipping it straight down into the melty goodness>.",
+        "article_name": "Make_Chocolate_Dipped_Spoons.txt",
+        "context_before": "3. Dip all 24 spoons into the chocolate so it covers the \"bowl\" of each spoon. Avoid getting chocolate too far up the handle of the spoon or the person using it may get chocolate on their fingers, and it can be more difficult to handle during the cooling process.",
+        "context_after": "* If you accidentally dip one too far, use a wet paper towel to wipe away the excess chocolate from the handle. Be careful not to wipe the bowl of the spoon.",
+        "grouping": 1
+    },
+    "55": {
+        "sentence_1": "Make sure your wireless network is encrypted with WPA2.",
+        "sentence_2": "Make sure your wireless network is encrypted with WPA2 and <that you use a strong password that includes at least 20 characters>.",
+        "article_name": "Prevent_People_from_Tracking_You_on_the_Internet.txt",
+        "context_before": "Your home network is one of the most common entry points for tracking and unauthorized data collection. It's essential to secure your router settings to reduce these risks.",
+        "context_after": "This step helps protect your data from being intercepted by others on the same network and makes it harder for third parties to monitor your online activity.",
+        "grouping": 1
+    },
+    "56": {
+        "sentence_1": "Use black mascara on your bottom lashes and paint your nails dark purple.",
+        "sentence_2": "Use black mascara on your bottom lashes, <conceal any blemishes or imperfections> and paint your nails dark purple.",
+        "article_name": "Imitate_Anarchy_Stocking_(Panty_and_Stocking_With_a_Garterbelt).txt",
+        "context_before": "The top layer is indigo and the bottom layer is pink. If you can't wear your hair like this, then any Gothic Lolita hairdo will work. \n 4.",
+        "context_after": "5. For personality, it's best to be calm and , but don't be afraid to raise your voice if something bothers you.   6. One thing that is very important is to make it clear you enjoy sweet foods!",
+        "grouping": 1
+    },
+    "57": {
+        "sentence_1": "Please use some kind of tissue between skin and bag when applying.",
+        "sentence_2": "Please use some kind of cloth between skin and bag when applying, such as <a kitchen towlel, paper towel or tissue>.",
+        "article_name": "Make_an_Ice_Gel_Pack.txt",
+        "context_before": "It will melt and risks giving off fumes if heated. \n * This pack should not be applied directly to the skin as the temperature is so low that the pack could harm your skin.",
+        "context_after": "no context",
+        "grouping": 1
+    },
+    "58": {
+        "sentence_1": "Sneak up and draw a mustache",
+        "sentence_2": "Sneak up and draw a mustache <on the victim>",
+        "article_name": "Sneak_Up_on_Someone_When_They're_Sleeping.txt",
+        "context_before": "## Steps\n \n   1. Make sure you leave the lights out to keep the place calm\n   2. Lie down on the floor\n 3.",
+        "context_after": "4. GET OUT",
+        "grouping": 1
+    },
+    "59": {
+        "sentence_1": "Now, the Center for Disease Control (CDC) and the World Health Organization (WHO) consider this a regular human flu virus that circulates seasonally.",
+        "sentence_2": "Now, the Center for Disease Control (CDC) and the World Health Organization (WHO) consider this a regular human flu virus that circulates seasonally, <so prevention and early treatment are similar to what you would do for the regular flu>.",
+        "article_name": "Avoid_H1N1.txt",
+        "context_before": "Many have avoided it; many have not. Here are some tips to avoid this virus.   \n In 2009-2010, the H1N1 flu virus, also known as the swine flu, was a worldwide pandemic.",
+        "context_after": "You can still contract H1N1 and it is still unpleasent to do so. Recognize the symptoms and prevent yourself from <a href=\"http%3A//www.wikihow.com/Prevent-the-Flu\">getting this nasty flu.</a> As with all illnesses, the young, the old, and the infirm are more likely to develop the flu.",
+        "grouping": 1
+    },
+    "60": {
+        "sentence_1": "Your hair will not come out of the tie if it is tight enough.",
+        "sentence_2": "Your hair will not come out of the tie if it is tight enough and <far away from your food>.",
+        "article_name": "Keep_Hair_out_of_Your_Food.txt",
+        "context_before": "## Steps\n \n 1. Tie your hair in a ponytail/bun in the back of your head.",
+        "context_after": "2. Wear a hairnet.   3. If you have short hair and you can't put your hair back in a ponytail/bun, get a headband or a scarf and put it around your head. \n   4.",
+        "grouping": 1
+    },
+    "61": {
+        "sentence_1": "Write them down, putting girl names in one list and boy names in another.",
+        "sentence_2": "Write them down, putting girl names in one list, boy names in another, and <unisex names in a third>.",
+        "article_name": "Start_Any_Story.txt",
+        "context_before": "If you have a story idea that you WILL NOT CHANGE, skip this step. \n 4. In your notebook, think of every name you have ever seen in your life.",
+        "context_after": "This way, whenever you add a new character, just look at your list and pick one.  5. Write a bullet-list with events in order of which they will occur in your story. So begin by saying what happens first. In a new bullet, put what happens next.",
+        "grouping": 1
+    },
+    "62": {
+        "sentence_1": "If you are applying for an entry level position, job recruiters will be most interested in reading about your education.",
+        "sentence_2": "If you are applying for an entry level position <without much work experience>, job recruiters will be most interested in reading about your education.",
+        "article_name": "Write_an_Entry_Level_Resume.txt",
+        "context_before": "If you choose to include this summary, it should be placed directly beneath your contact information. \n 3. Discuss your education.",
+        "context_after": "Include information regarding:    * The level of educational degree you have received.     * Your majors and minors (if you attended college). \n     * Relevant coursework that relates to the job you are applying for.",
+        "grouping": 1
+    },
+    "63": {
+        "sentence_1": "Make a list of properties that are similar to yours and write down how much rent the owners are charging.",
+        "sentence_2": "Make a list of properties that are similar to yours and write down how much rent the owners are charging and <the occupancy rate>.",
+        "article_name": "Determine_the_Rental_Cost_of_a_Property.txt",
+        "context_before": "Drive around the neighborhood to find rental properties that are not listed on these sites. \n     * Look for units that match yours in square footage, number of bedrooms and bathrooms, age, amenities and location. \n *",
+        "context_after": "Assess whether you can ask the same, more or less rent than these properties based on the location, amenities and size of yours.    * Keep in mind that the advertised rental price of a property might be too high. If, for example, you find a property similar to yours that has been vacant for a long time, the rental price the owners are asking might be too high. Take this into consideration when setting the rental price for your unit.",
+        "grouping": 1
+    },
+    "64": {
+        "sentence_1": "Do speech assessments starting at 9 months.",
+        "sentence_2": "Do speech assessments <on your child> starting at 9 months.",
+        "article_name": "Detect_Cleft_Lip_Early_in_Pregnancy.txt",
+        "context_before": "* If your child was also born with a cleft palate, surgery to correct it can be done between 6 and 12 months. \n 3.",
+        "context_after": "Because your child may face challenges with forming words and making sounds, a speech therapist will check your child's speech. Regular speech therapy can improve your child's language skills.    * Your child should have regular speech assessments at 18 months, 3 years, and 5 years old.",
+        "grouping": 1
+    },
+    "65": {
+        "sentence_1": "Warm up your muscles before you start.",
+        "sentence_2": "Warm up your muscles before you start <with any pole dancing activity>.",
+        "article_name": "Prepare_to_Pole_Dance.txt",
+        "context_before": "Learn to do a handstand against a wall. This will help you when you want to go upside down and will again strengthen your arms. \n 3.",
+        "context_after": "4. Make sure you have no cream on you at all before you touch the pole. Even the smallest amount will prevent you from staying on the pole.   5. Wear a skimpy top and high heel shoes if you feel comfortable, but most people who do pole dancing for exercise wear trainers (or bare feet), t-shirts and shorts or leggings which can be rolled up when needed.",
+        "grouping": 1
+    },
+    "66": {
+        "sentence_1": "If you work with a dietitian over the long-term, you should probably see them every six months.",
+        "sentence_2": "If you work with a dietitian over the long-term, you should see them every six months, or <as needed>.",
+        "article_name": "Work_with_a_Registered_Dietitian_for_IBD.txt",
+        "context_before": "At first, you should see your dietitian every week or two. \n     * Over the mid-term, you need to visit your nutritionist every month. \n *",
+        "context_after": "no context",
+        "grouping": 1
+    },
+    "67": {
+        "sentence_1": "You'll need a friend to help you do this while you wear the shirt you're using.",
+        "sentence_2": "You'll need a friend to help you do this while you wear the shirt you're using <for the costume>.",
+        "article_name": "Make_a_Superman_Costume.txt",
+        "context_before": "Gather the top of the rectangle around your neck. Tuck it into the sides and back collar of the shirt. Pin it in place.",
+        "context_after": "4. Hand sew or machine sew the cape into the back and side collar of the blue shirt/leotard. You will need to gather the material in several places so that you have enough fabric to flow out behind you.     * To create a finished look, hem the sides and bottom of the cape with a one-fourth inch (0.6cm) hem using your sewing machine.",
+        "grouping": 1
+    },
+    "68": {
+        "sentence_1": "If you cannot you are running too fast to go very far.",
+        "sentence_2": "If you cannot you are running too fast to go very far <in most cases>.",
+        "article_name": "Run.txt",
+        "context_before": "What matters is you breathe with a rhythm that provides a consistent supply of oxygen to your body. Don't worry about whether you are breathing through the nose or the mouth. You should be able to carry on a conversation with a running partner without much difficulty.",
+        "context_after": "Most people take two steps as they inhale and two steps as they exhale.  4. Keep your head in a neutral position, not looking up or down. Look approximately 10 feet in front of you if running a distance of more than 400 meters.",
+        "grouping": 1
+    },
+    "69": {
+        "sentence_1": "This might include your own blend of spices or a ready-made marinade.",
+        "sentence_2": "This might include your own blend of spices or a ready-made marinade <from the store>.",
+        "article_name": "Grill_Pork_Tenderloin.txt",
+        "context_before": "pork tenderloin and pat dry. \n 2. Rub the meat with the marinade of your choice.",
+        "context_after": "3. Use plastic wrap to seal the meat and refrigerate overnight, or for at least 4 hours.   4. Turn the heat to medium. \n   5. Sear the pork for 2 minutes on each side.",
+        "grouping": 1
+    },
+    "70": {
+        "sentence_1": "Make sure you have two other good supporting friends that will help you through the hard times.",
+        "sentence_2": "Make sure you have two other good supporting friends or <even some family members> that will help you through the hard times.",
+        "article_name": "Overcome_Your_Problems_when_Everybody_Is_Against_You.txt",
+        "context_before": "## Steps\n \n   1. First when someone comes to you with a rumor, be calm. it may bother you but stay calm and tell them: \"Okay what was your purpose of telling me what that person said?\" and \"Thanks but no thanks I really don't care to hear that.\"\n 2.",
+        "context_after": "3. Get a diary and wright your thoughts and your hurts or if you're good at expressing your feelings write songs and find problems within yourself.   4. Stay confident, still smile, Keep on keepin on the way you would regularly and ignore negative comments . \n   5. talk to your mom or grandma or aunt, sister somebody you're close to.",
+        "grouping": 1
+    },
+    "71": {
+        "sentence_1": "To be safest, just assume that everything you bring is going to get wet.",
+        "sentence_2": "To be safest <as you pack>, just assume that everything you bring is going to get wet.",
+        "article_name": "Prepare_to_Go_Swimming.txt",
+        "context_before": "At the very least, aim to drink 16oz or more of water in the hour leading up to your swim. Stuff phones, electronics, and valuables in resealable plastic bags.",
+        "context_after": "If you are taking things like your mobile phone that can't get wet, take them in a separate small bag, pockets of your clothes or a waterproof bag which you can put in your swimming bag.",
+        "grouping": 1
+    },
+    "72": {
+        "sentence_1": "Look for a three digit number.",
+        "sentence_2": "Look for a three digit number <at the end of the code>.",
+        "article_name": "Read_a_Date_Code.txt",
+        "context_before": "* For example, if the number was \u201c1722\u201d it would be the 22nd week in 2017 or May 29th - June 4th. \n 2.",
+        "context_after": "Certain chips from manufacturers will only have a three digit code. The first digit represents the year while the second and third digits represent the year.    * A three digit number may become confusing because \u201c721\u201d could mean that the part was made in the 21st week of 2017, 2007, or 1997.",
+        "grouping": 1
+    },
+    "73": {
+        "sentence_1": "Go to http://www.backyardchickens.com/atype/3/Laws to find out if there are laws in your state.",
+        "sentence_2": "Go to http://www.backyardchickens.com/atype/3/Laws to find out if there are laws in your state or <your locality>.",
+        "article_name": "Raise_Chickens_for_Eggs.txt",
+        "context_before": "### Part One: Planning a Chicken Coop\n \n 1. Find out if it is legal to raise chickens on your land. Many cities have ordinances against raising chickens in city lines.",
+        "context_after": "* It is a good idea to search for town ordinances and to check with your homeowner\u2019s association. They may have additional restrictions.     * Most cities have stricter laws about roosters than chickens. If you want a rooster in order to grow chickens for meat, you may have more trouble.",
+        "grouping": 1
+    },
+    "74": {
+        "sentence_1": "Gently rotate the arm in the other direction, back towards the chest, then rest.",
+        "sentence_2": "<At this point>, gently rotate the arm in the other direction, back towards the chest, then rest.",
+        "article_name": "Fix_a_Dislocated_Shoulder.txt",
+        "context_before": "1. Depending upon the tightness of the shoulder, this process may take a few tries. \n *",
+        "context_after": "9. Performed by a Sports Medicine professional or Medical Doctor only:<br><br>     * Administer morphine or similar painkiller. \n     * Help the patient onto a bed with at least one open side. \n     * Help the patient roll over onto their stomach, while making sure the arm of the injured shoulder is completely off the side of the bed.",
+        "grouping": 1
+    },
+    "75": {
+        "sentence_1": "Alternately, you can speed up the drying by using a blow dryer.",
+        "sentence_2": "Alternately, you can speed up the drying by using a blow dryer <on the low setting>.",
+        "article_name": "Make_Paper.txt",
+        "context_before": "15. Set the paper out to dry. Take the pieces of fabric and formica with the paper on them and arrange them to dry on a flat surface.",
+        "context_after": "16. Repeat the above steps to make additional sheets. Continue adding pulp and water to the basin as needed.   17. Peel the paper off the fabric or formica.",
+        "grouping": 1
+    },
+    "76": {
+        "sentence_1": "Stab the prongs into your food.",
+        "sentence_2": "Stab the prongs into your food <to take a bite>.",
+        "article_name": "Use_a_Fork.txt",
+        "context_before": "* Grip the fork with the rest of your fingers and thumb, preventing it from dropping of shifting while in use. \n 3.",
+        "context_after": "Once you've got a good handle on the fork, you can begin using it to eat. Find a piece of food that is a comfortable size to eat and bring the tines of the fork down into it. Apply just enough pressure to stick the food onto the tines of the fork. Make sure the food is secure and won't fall off the fork when you bring it towards your mouth.",
+        "grouping": 1
+    },
+    "77": {
+        "sentence_1": "Sprinkle 2 teaspoons of poultry seasoning and 1 teaspoon of pepper.",
+        "sentence_2": "Sprinkle 2 teaspoons of poultry seasoning and 1 teaspoon of pepper <all over the bird>.",
+        "article_name": "Make_Turkey_Ahead_of_Time.txt",
+        "context_before": "Ready the turkey. Place turkey in a shallow roasting pan with the breast up. Preheat your oven to 325 degrees Fahrenheit (162 degrees Celsius).",
+        "context_after": "Tuck the wings under the turkey and tie the drumsticks together with a thin string.  2. Place the pan in the oven. Roast the turkey for half an hour. While the turkey is roasting, mix 3 cups of chicken broth, \u00bd cup of minced fresh parsley, \u00bc cup of lemon juice, 1 tablespoon of minced thyme (or 1 teaspoon of dried thyme), 2 teaspoons of grated lemon peel, and 2 minced garlic cloves in a small bowl.",
+        "grouping": 2
+    },
+    "78": {
+        "sentence_1": "It's usually flavored and this one uses cinnamon and sugar.",
+        "sentence_2": "It's usually flavored <with something sweet> and this recipe uses cinnamon and sugar.",
+        "article_name": "Make_Atole.txt",
+        "context_before": "## Timestamp::::2011-11-16T07:23:32Z\n \n Atole is a corn drink from Mexico.",
+        "context_after": "no context",
+        "grouping": 2
+    },
+    "79": {
+        "sentence_1": "Paper Mario for Nintendo 64 or use the Virtual Console.",
+        "sentence_2": "Paper Mario for Nintendo 64 or use the Virtual Console <for Nintendo Wii>.",
+        "article_name": "Defeat_Bowser_in_Paper_Mario.txt",
+        "context_before": "## Things You'll Need\n \n *",
+        "context_after": "* Wi-Fi Adapter if you don't have an N64.   * Patience.",
+        "grouping": 2
+    },
+    "80": {
+        "sentence_1": "Warmer temperatures tend to produce a stronger reaction, so for best results, leave the Mountain Dew out at room temperature before you begin.",
+        "sentence_2": "Warmer temperatures tend to produce a stronger reaction, so for best results, leave the Mountain Dew out at room temperature <for approximately 30 minutes> before you begin.",
+        "article_name": "Make_Mountain_Dew_Glow.txt",
+        "context_before": "Empty most of the Mountain Dew from the bottle. Drink the soda or pour it into a glass, leaving only 1/4 to 1/2 inch (0.635 to 1.25 cm) left inside the bottle itself. \n *",
+        "context_after": "Do not use one straight from the refrigerator.  2. Snap open a glow stick. Use sharp scissors or a sharp utility knife to open a standard size glow stick. Make sure that both compartments are open.",
+        "grouping": 2
+    },
+    "81": {
+        "sentence_1": "Power the device on.",
+        "sentence_2": "Power the device on <for the first time>.",
+        "article_name": "Set_Up_a_Uniden_HomePatrol.txt",
+        "context_before": "9. Replace the battery-door to the back of the device\n   10. Position the device on a flat surface in an uncrowded room/corner where signals will tend to be good. If you don't receive much activity or the device picks up(later) no stations, move the device someplace else.\n 11.",
+        "context_after": "The power button is at the top of the device. Hold it down for a few seconds.  12. Recognize that this type of device is completely touch-screen active.   13.",
+        "grouping": 2
+    },
+    "82": {
+        "sentence_1": "Your arms should be at your sides and the back of your thighs should rest against the side of the exercise ball.",
+        "sentence_2": "Your arms should be <on the floor> along your sides and the back of your thighs should rest against the side of the exercise ball.",
+        "article_name": "Do_a_Reverse_Crunch_Twist_With_an_Exercise_Ball.txt",
+        "context_before": "### Getting in the Starting Position\n \n 1. Lie on your back with your calves resting on your <a href=\"Use%20an%20Exercise%20Ball%20for%20Beginners\">exercise ball</a>.",
+        "context_after": "no context",
+        "grouping": 2
+    },
+    "83": {
+        "sentence_1": "It freaks out the parents and maybe the girl too.",
+        "sentence_2": "It freaks out the parents and maybe the girl too <merely because she's with her parents>.",
+        "article_name": "Maintain_a_Relationship_over_the_Summer.txt",
+        "context_before": "## Section::::Warnings. \n \n When you go to her house, don't do the whole \"touchy touchy\" close to each other every single second thing.",
+        "context_after": "no context",
+        "grouping": 2
+    },
+    "84": {
+        "sentence_1": "If you must clean or repair the home you are leaving (such as to recoup a cleaning deposit), plan that time, as well.",
+        "sentence_2": "If you must clean or repair the home you are leaving (such as to recoup a cleaning deposit or <to leave it respectable for the buyers>), plan that time, as well.",
+        "article_name": "Plan_a_Move.txt",
+        "context_before": "12. Organize any repairs or cleaning. If the new place must be cleaned or repaired before you move in, plan overlapping time or time with your belongings in storage to complete these tasks.",
+        "context_after": "Remember that cleaning is generally easiest and most effective in an empty residence.  13. List and secure any needed supplies. Boxes, newspaper, packing tape, and markers are the basics.",
+        "grouping": 2
+    },
+    "85": {
+        "sentence_1": "Bright-colored mules are best for wearing during the summer and spring months.",
+        "sentence_2": "Bright-colored mules are best for wearing during the summer and spring months, <while darker or neutral tones are best for the colder months>.",
+        "article_name": "Style_Mules.txt",
+        "context_before": "* If you're choosing mules to wear during the winter, aim for darker shades such as black, brown, gray, forest green, or navy. \n *",
+        "context_after": "no context",
+        "grouping": 2
+    },
+    "86": {
+        "sentence_1": "In the United States, you need a Social Security number.",
+        "sentence_2": "In the United States, you need a Social Security number or <other proof of the right to work>.",
+        "article_name": "Fill_Out_Job_Application_Forms.txt",
+        "context_before": "Write out a detailed employment history on a plain sheet of paper. Ensure that you have all the contact information for all of your previous employers.<br><br>\n 2. Gather your driver\u2019s license or photo identification and other forms to document your identity.",
+        "context_after": "<br><br>  3. Prepare a list of six <a href=\"Include%20References%20on%20a%20Resume\">references</a> to use on your application.     * Three of these should be personal references, such as family or friends. The other three should be professional references, such as previous supervisors or people who can vouch for your professional responsibility level. \n   4.",
+        "grouping": 2
+    },
+    "87": {
+        "sentence_1": "In the dye box, there will be multiple sachets or bottles.",
+        "sentence_2": "In the dye box, there will be sachets or bottles <containing hair dye and developer>.",
+        "article_name": "Dye_Black_Hair_to_Light_Brown_Without_Bleach.txt",
+        "context_before": "This will make it easier to apply the hair dye and will help the colour to spread evenly across the strands. \n 5. Mix the dye in the supplied container.",
+        "context_after": "Follow the direction in the box to combine the different packets into the mixing bottle. Check that the lid is firmly on the mixing bottle and then shake the bottle for 5 seconds.    * If no mixing bottle is provided, combine the dye ingredients in an old bowl.",
+        "grouping": 2
+    },
+    "88": {
+        "sentence_1": "Toffee may be hot, so do not touch!",
+        "sentence_2": "Toffee may be hot, so do not touch <until it has fully cooled>.",
+        "article_name": "Make_Marshmallow_Toffee.txt",
+        "context_before": "## Warnings\n \n *",
+        "context_after": "no context",
+        "grouping": 2
+    },
+    "89": {
+        "sentence_1": "Even if the water freezes, you can thaw it out or eat the ice.",
+        "sentence_2": "Even if the water freezes, you can thaw it out or eat the ice <in order to stay hydrated>.",
+        "article_name": "Winterize_Your_Car.txt",
+        "context_before": "7. Put together a bad weather kit and keep it in your trunk. The kit should include: boots, gloves, hats, a blanket, ice scrapers, de-icer, a flashlight, salt or cat litter, jumper cables, a first-aid kit, non-perishable snacks and a bottle of water.",
+        "context_after": "You should also keep a phone charger in the car for your cell phone.",
+        "grouping": 2
+    },
+    "90": {
+        "sentence_1": "The perfect victim is timid, weak, unobservant, willing to compromise him or herself to \"do the right thing\".",
+        "sentence_2": "The perfect victim <for predatory people> is timid, weak, unobservant, willing to compromise him or herself to \"do the right thing\".",
+        "article_name": "Stay_Safe.txt",
+        "context_before": "### Staying Safe At Night\n \n 1. Do not act like a victim.",
+        "context_after": "It is even easier to take advantage of such a person if they are alone, in an isolated place, or intoxicated.  2. Be aware of your surroundings. While you can't avoid every problem that could arise by noticing your surroundings, it can definitely help you to keep aware and to look like you're keeping aware. This means don't talk on the phone, or listen to music.<br><br>     * Pay attention to the people who are around you.",
+        "grouping": 2
+    },
+    "91": {
+        "sentence_1": "Additionally, the primer prevents foundation from settling into your wrinkles.",
+        "sentence_2": "Additionally, the primer prevents foundation from settling into your wrinkles and <keeping the foundation in place>.",
+        "article_name": "Get_Rid_of_Forehead_Wrinkles.txt",
+        "context_before": "Understand the Grand National History. The Grand National Festival is a three-day event that culminates in the Grand National race (\"the National\"), the premier race of the National Hunt season. The National has been run at Aintree Racecourse since 1839; that's close to 175 years of history.",
+        "context_after": "Over the years, the Grand National has also become the most lucrative horseracing event in the UK; close to \u00a31 million is allocated to prize money. More than 150,000 people attend the three-day festival, and tens of millions of horseracing fans and punters tune in to watch the Grand National on TV and through Internet sites that stream the race live to avid viewers around the world. The very first Grand National champion was Lottery in 1839; the 2012 winner was Neptune Collonges, owned by John Hales, trained by Paul Nicholls, and ridden by Daryl Jacob.  2. Discover the essence of the Festival   3.",
+        "grouping": 2
+    },
+    "92": {
+        "sentence_1": "extend your liner out beyond the outer edges of your eye to create a wing.",
+        "sentence_2": "<For a bolder look>, extend your liner out beyond the outer edges of your eye to create a wing.",
+        "article_name": "Color_Block_Eye_Makeup.txt",
+        "context_before": "Easy money. \n 5. As you get better, move on to mithril, adamant, and once you are exceptionally good, move onto rune.",
+        "context_after": "It cost more with just the ore!ore=15k / bar=13k",
+        "grouping": 2
+    },
+    "93": {
+        "sentence_1": "Make sure your wireless network is encrypted with WPA2.",
+        "sentence_2": "Make sure your wireless network is encrypted with WPA2 and <that you use a strong password that includes at least 20 characters>.",
+        "article_name": "Prevent_People_from_Tracking_You_on_the_Internet.txt",
+        "context_before": "Your home network is one of the most common entry points for tracking and unauthorized data collection. It's essential to secure your router settings to reduce these risks.",
+        "context_after": "This step helps protect your data from being intercepted by others on the same network and makes it harder for third parties to monitor your online activity.",
+        "grouping": 2
+    },
+    "94": {
+        "sentence_1": "The furniture and carpets in your igloo wont be saved!",
+        "sentence_2": "The furniture <will go back into storage> and carpets in your igloo wont be saved!",
+        "article_name": "Save_Your_Igloos_on_Club_Penguin.txt",
+        "context_before": "2. Keep your total body fat between 14-22%. This is a healthy range of body fat.",
+        "context_after": "Visit a doctor or personal trainer to <a href=\"Calculate%20Body%20Fat%20Percentage%20Accurately\">learn your body fat percentage.</a>  3. Build muscle to fill out skin. Building muscle will also improve your chances of losing more weight. To build muscle most efficiently, do fewer reps of heavier weights.",
+        "grouping": 2
+    },
+    "95": {
+        "sentence_1": "Dust anything that needs to be dusted, such as:",
+        "sentence_2": "Dust anything that needs to be dusted, such as <your desk, shelves, picture frames and the TV>.",
+        "article_name": "Hold_a_Party_in_Your_Bedroom.txt",
+        "context_before": "You dont want a gritty feel on your carpet/hardwood floors do you?\n   3. If your room has an unpleasant smell, spray some nice smelling perfume. \n 4.",
+        "context_after": "* desk     * laptop\n     * picture frames\n     * t.v.\n   5. Clean off your desk, so you will have some space on it.",
+        "grouping": 2
+    },
+    "96": {
+        "sentence_1": "Flirting can be cute, but can also be annoying or off-putting.",
+        "sentence_2": "Flirting can be cute, but can also be annoying or off-putting <if done at the wrong time>.",
+        "article_name": "Start_a_Text_Conversation_with_a_Girl.txt",
+        "context_before": "If she doesn\u2019t seem interested (i.e., taking forever to respond, responding rarely, or sending trite, one-word texts), stop texting her. If she doesn\u2019t want to talk to you, you\u2019re wasting your time. Find some other cute girl to text :)\n *",
+        "context_after": "While flirting, pay close attention to her responses. If she is sending flirty messages back and responding quickly, this is a good sign. If she seems disinterested or even a little worried, slow down and go back to casual conversation.",
+        "grouping": 2
+    },
+    "97": {
+        "sentence_1": "Add green or purple eyeshadow, black mascara and black eyeliner for dramatic eyes.",
+        "sentence_2": "Add green or purple eyeshadow, black mascara and black eyeliner for dramatic eyes <if Tink is old enough for makeup>!",
+        "article_name": "Make_a_Tinkerbell_Costume.txt",
+        "context_before": "You might consider using the blue spray paint and some glitter on the spoon too. Of course, you can always go buy a wand at the store in the Halloween costumes section or toy aisles, but where's the fun in that?\n 6. Complete your look by using a light, shimmery foundation to emulate Tink's flawless skin.",
+        "context_after": "Or, tone it down a bit and use a shimmery silver eyeshadow and brown mascara and eyeliner for a more subtly, earthy look. Don't forget a peach blush and light, glimmering pink lip gloss!",
+        "grouping": 2
+    },
+    "98": {
+        "sentence_1": "Loosen the adjustment screw with a screwdriver if your door is closing too slowly.",
+        "sentence_2": "Loosen the adjustment screw <1 - 2 full rotations> with a screwdriver if your door is closing too slowly.",
+        "article_name": "Adjust_a_Door_Closer.txt",
+        "context_before": "* Give the screw a couple of twists to start, then test it by opening and letting the door close to see how much slower it closes. Keep making minor adjustments until the door closes at the desired speed. \n 3. Turn the screw counterclockwise to make the door close faster.",
+        "context_after": "This will adjust the speed of the pneumatic cylinder to speed the door up.    * Make sure not to completely unscrew the adjustment screw, or the cylinder could come apart and start leaking pneumatic fluid.",
+        "grouping": 2
+    },
+    "99": {
+        "sentence_1": "These can be signs of infection.",
+        "sentence_2": "These can be signs of infection or <other serious disease>.",
+        "article_name": "Prevent_Ebola.txt",
+        "context_before": "## Warnings \n \n     * If you suspect that you have an un-diagnosed illness, please contact a health professional. \n * Go to the ER (emergency room) if your temperature is over 104\u2109 (40\u2103), you feel extremely sick, or you have hemorrhaging, whether you believe you are at risk for Ebola or not.",
+        "context_after": "* Men who have recovered from the disease can still transmit the virus through their semen for up to seven weeks after recovery from the illness.",
+        "grouping": 2
+    },
+    "100": {
+        "sentence_1": "Hook the neck strap into the small loop on the back of the saxophone's body.",
+        "sentence_2": "Hook the neck strap into the small loop on the back of the saxophone's body, <below the octave key>.",
+        "article_name": "Assemble_a_Saxophone.txt",
+        "context_before": "Put the fully asssembled mouthpiece on the neck. If it's difficult to slide on, try adding more cork grease. \n 8.",
+        "context_after": "You're ready to play!",
+        "grouping": 2
+    },
+    "101": {
+        "sentence_1": "Replace diet drinks with water.",
+        "sentence_2": "Replace diet drinks with water or <100 % fruit juice>.",
+        "article_name": "Lose_More_Weight_Eating_Raw_Foods.txt",
+        "context_before": "## Warnings\n \n *",
+        "context_after": "Nutra-sweet can increase appetite and cause numerous health problems.",
+        "grouping": 2
+    },
+    "102": {
+        "sentence_1": "Many times the road block is the club commissioner.",
+        "sentence_2": "Many times the road block is the club commissioner, <if one is involved>.",
+        "article_name": "Start_a_School_Club.txt",
+        "context_before": "* Do not be surprised if your club is rejected. Many usually are. \n *",
+        "context_after": "They do not know that much in depth of the club and may reject it for unoriginality.",
+        "grouping": 2
+    },
+    "103": {
+        "sentence_1": "You will also get to see how different types of group fitness instructors teach and motivate their students.",
+        "sentence_2": "You will also get to see how different types of group fitness instructors teach and motivate their students, <which will help you as a future instructor>.",
+        "article_name": "Become_a_Spinning_Instructor.txt",
+        "context_before": "* Spinning has a lot of its own terminology, so take notes on all the terms you hear and what they mean. \n 2. Build up your endurance through spinning and other fitness classes. Try out other group fitness classes to add variety to your endurance training.",
+        "context_after": "* Different group fitness classes focus on different parts of the body. Some may incorporate weights or other equipment, while others focus only on using your own body. A variety of fitness activities will help you raise your heart rate in different ways and build up full-body endurance.     * Examples of other group fitness classes to try include zumba or kickboxing.",
+        "grouping": 2
+    },
+    "104": {
+        "sentence_1": "There are many credit cards available that offer various interest rates, rewards and other perks.",
+        "sentence_2": "There are many credit cards available <in the U.S>. that offer various interest rates, rewards and other features.",
+        "article_name": "Compare_Credit_Card_Rates.txt",
+        "context_before": "## Timestamp::::2010-11-16T23:01:50Z",
+        "context_after": "When thinking about how to compare credit card rates, have an understanding of what the card will be used for and what kind of card you are looking for. Gather information about charges and benefits besides the interest rate that could affect how much you pay each year for credit.",
+        "grouping": 2
+    },
+    "105": {
+        "sentence_1": "It will help your strength for a fight, you need every ounce of power for this, maybe 2 or 3 times a week.",
+        "sentence_2": "It will help your strength for a fight, you need every ounce of power for this, maybe 2 or 3 times a week <for that, no more, there are other things to be in schedule>.",
+        "article_name": "Prevent_Being_Bullied.txt",
+        "context_before": "I mean you are weak too, but there are plenty of weaklings in your grade or below it. \n 2. Join sports activities.",
+        "context_after": "3. Cut down on video games. Video games will make you lack strength.   4. Have a lot of sleep/water/food. Get some energy and be in a good condition.",
+        "grouping": 2
+    },
+    "106": {
+        "sentence_1": "It is an expensive treatment but is the least harmful to your goldfish.",
+        "sentence_2": "It is an expensive treatment but is the least harmful to your goldfish and <other creatures living in your aquarium, including plants>.",
+        "article_name": "Cure_Flukes_in_Goldfish.txt",
+        "context_before": "Treat the entire goldfish tank with Droncit. 3.5 pills (34-milligrams) per 10 gallons of tank water. Droncit is a pill form of praziquantel and is also used as a treatment for worms in dogs and cats.",
+        "context_after": "4. After the first treatment is complete, resume your biological filtration to keep the nitrifying bacteria alive. Even if the filter contains flukes, they will eventually go into the tank water in search of a host or otherwise die from starvation.   5.",
+        "grouping": 2
+    },
+    "107": {
+        "sentence_1": "It is advised that you have your agent present when you decide to fill it out.",
+        "sentence_2": "It is advised that you have your agent, or <the person whom you are granting the powers>, present when you decide to fill it out.",
+        "article_name": "Get_Power_of_Attorney_in_Texas.txt",
+        "context_before": "3. Fill Out Your Form. - You will need to fill out your power of attorney form completely.",
+        "context_after": "* In Texas, all power of attorney forms need to be notarized. This can be done by going to the nearest branch bank and they will usually notarize for free (if you have an account with them) and for a small fee (Bank of America charges $8.50) if you do not have an account.   4. Keep in Safe Place.",
+        "grouping": 2
+    },
+    "108": {
+        "sentence_1": "Do not sew neck strap together.",
+        "sentence_2": "<In method 1>, do not sew neck strap together.",
+        "article_name": "Make_Clothes_for_Your_Doll.txt",
+        "context_before": "## Warnings\n \n   * Do not use any supplies that could harm you without supervision or help from your guardian. \n *",
+        "context_after": "It will make it hard to put over doll's head.  * Don't put your fingers where the sewing pins are going!",
+        "grouping": 2
+    },
+    "109": {
+        "sentence_1": "To be safest, just assume that everything you bring is going to get wet.",
+        "sentence_2": "To be safest <as you pack>, just assume that everything you bring is going to get wet.",
+        "article_name": "Prepare_to_Go_Swimming.txt",
+        "context_before": "At the very least, aim to drink 16oz or more of water in the hour leading up to your swim. Stuff phones, electronics, and valuables in resealable plastic bags.",
+        "context_after": "If you are taking things like your mobile phone that can't get wet, take them in a separate small bag, pockets of your clothes or a waterproof bag which you can put in your swimming bag.",
+        "grouping": 2
+    },
+    "110": {
+        "sentence_1": "They are also expensive, especially if you buy the heavier and larger bags.",
+        "sentence_2": "They are also expensive, especially if you buy the heavier and larger bags, and <not always exactly what you want>.",
+        "article_name": "Make_a_Gift_Bag.txt",
+        "context_before": "## Section::::Things You'll Need. \n \n Gift bags are very handy and come in many sizes.",
+        "context_after": "Make your own, and set them aside for the next time you have a present to give to someone. Use either the heavier shiny paper or lighter holiday paper, depending on the size of the gift.",
+        "grouping": 2
+    },
+    "111": {
+        "sentence_1": "The range is about 30 feet, or 10 metres.",
+        "sentence_2": "The range <of a bluetooth device> is about 30 feet, or 10 metres.",
+        "article_name": "Bug_a_Room_With_Bluetooth.txt",
+        "context_before": "Hide the Bluetooth headset somewhere in the room where it will be able to pick up sounds clearly, but make sure that it is well hidden. \n 4. Leave the room, but don't go too far; your Bluetooth connection should work through walls, but if you get too far away, it won't work very well.",
+        "context_after": "5. Wait for the conversation of interest to start. When it does, turn on the voice recorder on your phone. It should record through the microphone of the Bluetooth headset.",
+        "grouping": 2
+    },
+    "112": {
+        "sentence_1": "Fry the onion for 2 minutes, stirring it often.",
+        "sentence_2": "Fry it for 2 minutes, stirring it often <with a wooden spatula>.",
+        "article_name": "Cook_Bean_Sprouts.txt",
+        "context_before": "Add 1 small chopped onion and fry for 2 minutes. If you have not already, prepare 1 small onion by peeling the papery outer layer first, then cutting off both ends. Chop the onion into small pieces, then toss them into the skillet.",
+        "context_after": "* You can omit this step if you don\u2019t like onion, or replace it with 1 clove of garlic instead.   3. Add 2 cups (200 g) of bean sprouts and season with salt. If you want to, you can remove the brownish threads at the ends of the white roots first, but you don\u2019t have to.",
+        "grouping": 2
+    },
+    "113": {
+        "sentence_1": "So you worried about getting a low level?",
+        "sentence_2": "Are you worried about getting a low level <in your SATs>?",
+        "article_name": "Achieve_Higher_Levels_in_Your_Year_6_SATs.txt",
+        "context_before": "## Timestamp::::2012-04-09T22:38:42Z",
+        "context_after": "Or maybe you just need some pointers so you don't get in trouble for 'slacking off'. If you answered yes to any of these, or all, read on!",
+        "grouping": 2
+    },
+    "114": {
+        "sentence_1": "You may need to use a special label provided by the company, or you may be able to pay with a card and print one.",
+        "sentence_2": "You may need to use a special label provided by the company, <which you may have to order by mail or pick up from a brick and mortar location>, or you may be able to pay with a card and print one.",
+        "article_name": "Ship_Packages_from_Home.txt",
+        "context_before": "Select the \"Schedule a Pickup\" option and input the necessary information to calculate postage and shipping details. Then:\n     * Double check the shipping and return addresses. \n * Verify the label policy.",
+        "context_after": "* Choose a time for pickup.   3. Ship the package. Seal your package with tape.",
+        "grouping": 2
+    }
+}
