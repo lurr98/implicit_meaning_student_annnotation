@@ -14,28 +14,28 @@ if user_qualification == 1:
     st.markdown("\n## You have successfully completed the qualification test. Good job!\n\n Select **Annotation** on the navigation bar to your left to do some annotating.")
     
     # For students
-    # st.markdown("The correct answers for the qualification test are as follows:\n" \
-    # "- :grey-background[so you 'll get a better bargain] → Implicit Meaning (Logical Reasoning)\n" \
-    # "- :grey-background[as you pack] → Implicit Meaning (Context)\n" \
-    # "- :grey-background[on smaller peripheral bones] → New Information\n" \
-    # "- :grey-background[and that you use a strong password that includes at least 20 characters] → New Information\n" \
-    # "- :grey-background[to grip the handlebars too tightly] → Implicit Meaning (Context)")
+    st.markdown("The correct answers for the qualification test are as follows:\n" \
+    "- :grey-background[so you 'll get a better bargain] → Implicit Meaning (Logical Reasoning)\n" \
+    "- :grey-background[as you pack] → Implicit Meaning (Context)\n" \
+    "- :grey-background[on smaller peripheral bones] → New Information\n" \
+    "- :grey-background[and that you use a strong password that includes at least 20 characters] → New Information\n" \
+    "- :grey-background[to grip the handlebars too tightly] → Implicit Meaning (Context)")
 elif user_qualification == -1:
     st.markdown("\n## You did not pass the qualification test. \n\n You have already attempted the qualification test and failed. Sorry about that! Please copy the completion code below into Prolific.\n\n")
-    st.markdown("## Your completion code: " + os.getenv("PROLIFIC_SCREENOUT_CODE"))
+    # st.markdown("## Your completion code: " + os.getenv("PROLIFIC_SCREENOUT_CODE"))
 
     # for students
-    # st.markdown("\n## You did not pass the qualification test. \n\n You will still be admitted to the annotation task now as this is part of the course.\n\n")
-    # st.markdown("The correct answers for the qualification test are as follows:\n" \
-    # "- :grey-background[so you 'll get a better bargain] → Implicit Meaning (Logical Reasoning)\n" \
-    # "- :grey-background[as you pack] → Implicit Meaning (Context)\n" \
-    # "- :grey-background[on smaller peripheral bones] → New Information\n" \
-    # "- :grey-background[and that you use a strong password that includes at least 20 characters] → New Information\n" \
-    # "- :grey-background[to grip the handlebars too tightly] → Implicit Meaning (Context)")
-    # st.markdown("\n\n Click this button to set your qualification status to 'qualified'.")
-    # if st.button("Qualify Now"):
-    #     user_repository.set_qualification(st.session_state.user_id, 1)
-    #     st.rerun()
+    st.markdown("\n## You did not pass the qualification test. \n\n You will still be admitted to the annotation task now as this is part of the course.\n\n")
+    st.markdown("The correct answers for the qualification test are as follows:\n" \
+    "- :grey-background[so you 'll get a better bargain] → Implicit Meaning (Logical Reasoning)\n" \
+    "- :grey-background[as you pack] → Implicit Meaning (Context)\n" \
+    "- :grey-background[on smaller peripheral bones] → New Information\n" \
+    "- :grey-background[and that you use a strong password that includes at least 20 characters] → New Information\n" \
+    "- :grey-background[to grip the handlebars too tightly] → Implicit Meaning (Context)")
+    st.markdown("\n\n Click this button to set your qualification status to 'qualified'.")
+    if st.button("Qualify Now"):
+        user_repository.set_qualification(st.session_state.user_id, 1)
+        st.rerun()
 else:
     # get index of sample
     index = int(st.session_state.qualification_progress)
