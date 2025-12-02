@@ -6,7 +6,7 @@ import streamlit as st
 from core.scripts import user_repository, database_repository
 
 TASK_INFO = {
-    "implicit_meaning_student_task": {
+    "implicit_meaning_task": {
         "annotation_filepath": "implicit_meaning_task/resources/current_samples.json",
         "qualification_filepath": "implicit_meaning_task/resources/qualification_samples.json",
         "number_of_annotator_groups": 3,
