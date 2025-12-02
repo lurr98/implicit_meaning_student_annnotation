@@ -6,66 +6,7 @@ import streamlit as st
 from core.scripts import user_repository, database_repository
 
 TASK_INFO = {
-    "ambiguity_task": {
-        "annotation_filepath": "ambiguity_task/resources/pilot_samples.json",
-        "qualification_filepath": "ambiguity_task/resources/qualification_questions.json",
-        "number_of_annotator_groups": 8
-    },
-    "example_task": {
-        "annotation_filepath": "example_task/resources/samples.json",
-        "qualification_filepath": "example_task/resources/qualification_samples.json",
-        "number_of_annotator_groups": 2,
-    },
-    "ambistory_task": {
-        "annotation_filepath": "ambistory_task/resources/story_samples.json",
-        "qualification_filepath": "ambistory_task/resources/qualification_questions.json",
-        "number_of_annotator_groups": 1
-    },
-    "ambisentence_task": {
-        "annotation_filepath": "ambisentence_task/resources/word_senses.json",
-        "qualification_filepath": "ambisentence_task/resources/qualification_questions.json",
-        "number_of_annotator_groups": 1
-    },
-    "eval_ambisentence_task": {
-        "annotation_filepath":  "eval_ambisentence_task/resources/human_samples.json",
-        "qualification_filepath": "eval_ambisentence_task/resources/qualification_questions.json",
-        "number_of_annotator_groups": 1
-    },
-    "ambistory2_task": {
-        "annotation_filepath": "ambistory2_task/resources/story_samples.json",
-        "qualification_filepath": "ambistory2_task/resources/qualification_questions.json",
-        "number_of_annotator_groups": 1
-    },
-    "ending_task": {
-        "annotation_filepath": "ending_task/resources/story_samples.json",
-        "qualification_filepath": "ending_task/resources/qualification_questions.json",
-        "number_of_annotator_groups": 4,
-        "group_assignment": "post-qualification"
-    },
-    "eval_ending_task": {
-        "annotation_filepath": "eval_ending_task/resources/story_samples.json",
-        "qualification_filepath": "eval_ending_task/resources/qualification_questions.json",
-        "number_of_annotator_groups": 4,
-        "group_assignment": "post-qualification"
-    },
-    "big_ambisentence_task": {
-        "annotation_filepath": "big_ambisentence_task/resources/word_senses.json",
-        "qualification_filepath": "big_ambisentence_task/resources/qualification_questions.json",
-        "number_of_annotator_groups": 1
-    },
-    "big_ending_task": {
-        "annotation_filepath": "big_ending_task/resources/annotation_samples.json",
-        "qualification_filepath": "big_ending_task/resources/qualification_questions.json",
-        "number_of_annotator_groups": 65,
-        "group_assignment": "post-qualification"
-    },
-    "big_ending_task_round2": {
-        "annotation_filepath": "big_ending_task_round2/resources/big_ending_annotations_round2.json",
-        "qualification_filepath": "big_ending_task_round2/resources/qualification_questions.json",
-        "number_of_annotator_groups": 35,
-        "group_assignment": "post-qualification"
-    },
-    "implicit_meaning_task": {
+    "implicit_meaning_student_task": {
         "annotation_filepath": "implicit_meaning_task/resources/current_samples.json",
         "qualification_filepath": "implicit_meaning_task/resources/qualification_samples.json",
         "number_of_annotator_groups": 3,
