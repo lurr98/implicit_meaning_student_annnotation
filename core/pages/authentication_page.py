@@ -67,7 +67,5 @@ if user_id:
     else:
         st.write("The entered ID does not exist. Please only enter the 8 digit password (not name!) that was sent to you on Prolific.")
         
-st.markdown("""\n\n## Where is my ID?
-
-Use your password to log in.
+st.markdown("""\n\n### Use your password to log in.
 """)
