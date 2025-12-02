@@ -21,7 +21,7 @@ if user_qualification == 1:
     "- :grey-background[and that you use a strong password that includes at least 20 characters] → New Information\n" \
     "- :grey-background[to grip the handlebars too tightly] → Implicit Meaning (Context)")
 elif user_qualification == -1:
-    st.markdown("\n## You did not pass the qualification test. \n\n You have already attempted the qualification test and failed. Sorry about that! Please copy the completion code below into Prolific.\n\n")
+    # st.markdown("\n## You did not pass the qualification test. \n\n You have already attempted the qualification test and failed. Sorry about that! Please copy the completion code below into Prolific.\n\n")
     # st.markdown("## Your completion code: " + os.getenv("PROLIFIC_SCREENOUT_CODE"))
 
     # for students
