@@ -69,5 +69,5 @@ if user_id:
         
 st.markdown("""\n\n## Where is my ID?
 
-Prolific likely opened this website in a new window. If you go back to the Prolific window, you will see your credentials: a username and a password. The username is not that important. Simply use the password directly to log in.
+Use your password to log in.
 """)
