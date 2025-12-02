@@ -57,7 +57,7 @@ def authenticate_user(user_id: str) -> str:
             return task
         
 
-user_id = st.text_input("Please enter the 8-digit User ID (password) you received:", max_chars=100)
+user_id = st.text_input("Please enter the 8-digit password you received:", max_chars=100)
 if user_id:
     # check if user id is the secret admin password
     if authenticate_admin(user_id):
